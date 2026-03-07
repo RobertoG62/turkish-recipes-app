@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="המטבח התורכי — מתכונים אותנטיים מתורכי, בעברית.">
+    <meta property="og:title" content="המטבח התורכי">
+    <meta property="og:description" content="מתכונים אותנטיים מהלב של איסטנבול">
+    <meta property="og:type" content="website">
+    <title>המטבח התורכי — מתכונים אותנטיים</title>
+
+    <!-- Tailwind CSS v4 CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'tr-primary': '#C41E3A',
+                        'tr-primary-light': '#E85D72',
+                        'tr-primary-dark': '#8B1528',
+                        'tr-cream': '#FAFAFA',
+                        'tr-charcoal': '#1A1A1A',
+                        'tr-navy': '#0A1628',
+                        'tr-warm-gray': '#F5F0EB',
+                        'tr-text-secondary': '#6B7280',
+                        'tr-border': '#E5E1DC',
+                        'tr-success': '#16A34A',
+                        'tr-warning': '#D97706',
+                        'tr-danger': '#DC2626',
+                    },
+                    fontFamily: {
+                        'heebo': ['Heebo', 'sans-serif'],
+                        'playfair': ['Playfair Display', 'serif'],
+                    },
+                }
+            }
+        }
+    </script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="bg-tr-cream font-heebo text-tr-charcoal min-h-screen">
+
+    <!-- Header -->
+    <header id="app-header" class="fixed top-0 right-0 left-0 z-50 transition-all duration-200">
+        <div class="max-w-6xl mx-auto px-4 h-16 md:h-18 flex items-center justify-between">
+            <a href="#/" id="header-logo" class="flex items-center gap-2">
+                <span class="text-tr-primary text-2xl"><i class="fas fa-mosque"></i></span>
+                <span class="font-playfair font-bold text-lg md:text-xl text-tr-charcoal">המטבח התורכי</span>
+            </a>
+            <button id="back-btn" class="hidden items-center gap-2 text-tr-charcoal hover:text-tr-primary transition-colors text-sm font-medium">
+                <span>חזרה למתכונים</span>
+                <i class="fas fa-arrow-left"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Home View -->
+        <div id="home-view">
+            <!-- Hero Section -->
+            <section id="hero" class="home-hero relative flex items-center justify-center text-center overflow-hidden">
+                <div class="relative z-10 px-4 w-full max-w-2xl mx-auto">
+                    <h1 class="font-playfair text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-3">
+                        המטבח <span class="text-tr-primary">התורכי</span>
+                    </h1>
+                    <p class="text-gray-300 text-lg md:text-xl mb-8 font-light">
+                        מתכונים אותנטיים מהלב של איסטנבול
+                    </p>
+                    <!-- Search Bar -->
+                    <div class="relative max-w-md mx-auto">
+                        <div class="glass-search flex items-center rounded-xl overflow-hidden">
+                            <span class="pr-4 pl-2 text-tr-primary"><i class="fas fa-search"></i></span>
+                            <input
+                                id="search-input"
+                                type="text"
+                                placeholder="חיפוש מתכון..."
+                                class="w-full py-3 pl-4 bg-transparent text-white placeholder-gray-400 outline-none text-base"
+                            >
+                            <button id="search-clear" class="hidden pl-4 pr-2 text-gray-400 hover:text-white transition-colors">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Category Filters -->
+            <section class="sticky top-16 md:top-18 z-40 bg-tr-cream/95 backdrop-blur-sm border-b border-tr-border">
+                <div class="max-w-6xl mx-auto px-4 py-3">
+                    <div id="category-filters" class="flex gap-2 overflow-x-auto pb-1 scrollbar-hide"></div>
+                    <div id="result-count" class="text-tr-text-secondary text-sm mt-2 hidden"></div>
+                </div>
+            </section>
+
+            <!-- Recipe Grid -->
+            <section class="max-w-6xl mx-auto px-4 py-8">
+                <div id="recipe-grid" class="grid gap-6" style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));"></div>
+
+                <!-- Empty State -->
+                <div id="empty-state" class="hidden text-center py-16">
+                    <div class="text-6xl mb-4 text-tr-primary opacity-50"><i class="fas fa-search"></i></div>
+                    <h3 class="text-xl font-bold text-tr-charcoal mb-2">לא נמצאו מתכונים</h3>
+                    <p class="text-tr-text-secondary mb-4">נסו לשנות את מילות החיפוש או לבחור קטגוריה אחרת</p>
+                    <button id="clear-filters-btn" class="px-6 py-2 bg-tr-primary text-white rounded-lg hover:bg-tr-primary-dark transition-colors font-medium">
+                        נקה חיפוש
+                    </button>
+                </div>
+
+                <!-- Loading State -->
+                <div id="loading-state" class="text-center py-16">
+                    <div class="spinner mb-4"></div>
+                    <p class="text-tr-text-secondary">טוען מתכונים...</p>
+                </div>
+            </section>
+        </div>
+
+        <!-- Recipe Detail View -->
+        <div id="recipe-view" class="hidden"></div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-tr-navy text-gray-400 py-8 mt-8">
+        <div class="max-w-6xl mx-auto px-4 text-center">
+            <p class="font-heebo text-sm">
+                המטבח התורכי — מתכונים אותנטיים מתורכי, בעברית
+                <span class="text-tr-primary mx-1"><i class="fas fa-heart"></i></span>
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/data.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

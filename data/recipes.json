@@ -1,0 +1,1487 @@
+{
+  "recipes": [
+    {
+      "id": "adana-kebab",
+      "title": "קבב אדנה מסורתי",
+      "originalName": "Adana Kebabı",
+      "description": "קבב תורכי אותנטי עשוי בשר כבש טחון עם תבלינים חריפים, נצלה על גחלים",
+      "category": "קבבים ובשרים",
+      "image": "images/Adana_Kebab.jpg",
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "בשר כבש טחון (שומני)", "quantity": "500", "unit": "גרם" },
+        { "name": "זנב כבש טחון", "quantity": "200", "unit": "גרם" },
+        { "name": "פפריקה חריפה", "quantity": "2", "unit": "כפות" },
+        { "name": "כמון טחון", "quantity": "1", "unit": "כפית" },
+        { "name": "שום כתוש", "quantity": "4", "unit": "שיניים" },
+        { "name": "מלח ופלפל שחור", "quantity": "לפי", "unit": "טעם" },
+        { "name": "פיתות תורכיות", "quantity": "4", "unit": "יחידות" }
+      ],
+      "instructions": [
+        "לערבב את הבשר הטחון עם זנב הכבש, תבלינים ושום עד לקבלת תערובת הומוגנית",
+        "לצנן את התערובת במקרר למשך שעה",
+        "ליצור צורת נקניק ארוך על שיפוד מתכת שטוח",
+        "לצלות על גחלים לוהטות כ-12-15 דקות, תוך סיבוב מדי פעם",
+        "להגיש חם עם פיתה, סלט ירקות ורוטב יוגורט"
+      ],
+      "tags": ["קבב", "גריל", "מנה עיקרית", "מסורתי", "חריף"]
+    },
+    {
+      "id": "iskender-kebab",
+      "title": "קבב איסקנדר",
+      "originalName": "İskender Kebap",
+      "description": "קבב דונר מוגש על פיתה עם רוטב עגבניות, חמאה מומסת ויוגורט",
+      "category": "קבבים ובשרים",
+      "image": "images/Iskender_Kebab.jpg",
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "בשר כבש דק פרוס", "quantity": "600", "unit": "גרם" },
+        { "name": "פיתות תורכיות", "quantity": "4", "unit": "יחידות" },
+        { "name": "רוטב עגבניות", "quantity": "300", "unit": "מ״ל" },
+        { "name": "חמאה", "quantity": "100", "unit": "גרם" },
+        { "name": "יוגורט טבעי", "quantity": "200", "unit": "גרם" },
+        { "name": "פפריקה", "quantity": "1", "unit": "כפית" },
+        { "name": "מלח ופלפל", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לתבל את הבשר ולצלות על גריל או במחבת עד שזהוב",
+        "לחתוך את הפיתות לקוביות ולהניח בתחתית הצלחת",
+        "לשפוך רוטב עגבניות חם על הפיתה",
+        "להניח את הבשר הצלוי מעל",
+        "להמיס את החמאה עם פפריקה ולשפוך מעל",
+        "להגיש עם יוגורט בצד"
+      ],
+      "tags": ["קבב", "מנה עיקרית", "מיוחד", "סלטנות עות'מאנית"]
+    },
+    {
+      "id": "kofte",
+      "title": "כדורי בשר תורכיים",
+      "originalName": "Köfte",
+      "description": "כדורי בשר רכים ועסיסיים בתיבול תורכי מסורתי",
+      "category": "קבבים ובשרים",
+      "image": "images/Kofte.jpg",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בשר בקר טחון", "quantity": "500", "unit": "גרם" },
+        { "name": "בצל מגורר", "quantity": "1", "unit": "יחידה" },
+        { "name": "פירורי לחם", "quantity": "3", "unit": "כפות" },
+        { "name": "ביצה", "quantity": "1", "unit": "יחידה" },
+        { "name": "כמון", "quantity": "1", "unit": "כפית" },
+        { "name": "פטרוזיליה קצוצה", "quantity": "3", "unit": "כפות" },
+        { "name": "מלח ופלפל", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לערבב את כל המרכיבים היטב בקערה גדולה",
+        "ליצור כדורים בגודל בינוני",
+        "לחמם מחבת עם מעט שמן",
+        "לטגן את הכדורים מכל הצדדים עד שזהובים",
+        "להגיש חם עם סלט ואורז"
+      ],
+      "tags": ["כדורי בשר", "מנה עיקרית", "משפחתי", "קל להכנה"]
+    },
+    {
+      "id": "doner-kebab",
+      "title": "דונר קבב",
+      "originalName": "Döner Kebap",
+      "description": "בשר מתובל הנצלה על שיפוד מסתובב, מוגש בפיתה עם ירקות",
+      "category": "קבבים ובשרים",
+      "image": "images/Doner_Kebab.jpg",
+      "prepTime": 25,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "בשר כבש או עוף פרוס דק", "quantity": "800", "unit": "גרם" },
+        { "name": "יוגורט", "quantity": "4", "unit": "כפות" },
+        { "name": "שמן זית", "quantity": "3", "unit": "כפות" },
+        { "name": "פפריקה", "quantity": "2", "unit": "כפות" },
+        { "name": "כמון", "quantity": "1", "unit": "כפית" },
+        { "name": "שום כתוש", "quantity": "3", "unit": "שיניים" },
+        { "name": "פיתות", "quantity": "6", "unit": "יחידות" }
+      ],
+      "instructions": [
+        "לערבב יוגורט, שמן זית, תבלינים ושום",
+        "להשרות את הבשר במרינדה למשך 4 שעות",
+        "לצלות את הבשר על גריל או במחבת חמה",
+        "לפרוס את הבשר הצלוי לרצועות דקות",
+        "להגיש בפיתה עם סלט, בצל וטחינה"
+      ],
+      "tags": ["דונר", "רחוב", "מהיר", "פופולרי"]
+    },
+    {
+      "id": "shish-kebab",
+      "title": "שישליק תורכי",
+      "originalName": "Şiş Kebap",
+      "description": "קוביות בשר כבש או בקר צלויות על שיפודים עם ירקות",
+      "category": "קבבים ובשרים",
+      "image": "images/Shish_Kebab.jpg",
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בשר כבש או בקר בקוביות", "quantity": "600", "unit": "גרם" },
+        { "name": "פלפלים צבעוניים", "quantity": "2", "unit": "יחידות" },
+        { "name": "עגבניות שרי", "quantity": "12", "unit": "יחידות" },
+        { "name": "בצל", "quantity": "2", "unit": "יחידות" },
+        { "name": "שמן זית", "quantity": "3", "unit": "כפות" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" },
+        { "name": "תבלינים", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לחתוך את הבשר והירקות לקוביות אחידות",
+        "להשרות את הבשר בשמן זית, לימון ותבלינים למשך שעה",
+        "לשפד את הבשר והירקות לסירוגין על שיפודים",
+        "לצלות על גריל או בתנור חם כ-12-15 דקות",
+        "להגיש חם עם אורז או פיתה"
+      ],
+      "tags": ["שיפודים", "גריל", "קל", "ירקות"]
+    },
+    {
+      "id": "kuzu-tandir",
+      "title": "כבש טנדיר",
+      "originalName": "Kuzu Tandır",
+      "description": "כבש שלם או כתף כבש איטי בתנור עד להתפוררות",
+      "category": "קבבים ובשרים",
+      "image": "images/Kuzu_Tandir.jpg",
+      "prepTime": 30,
+      "cookTime": 240,
+      "servings": 8,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "כתף כבש", "quantity": "2", "unit": "ק״ג" },
+        { "name": "שום", "quantity": "8", "unit": "שיניים" },
+        { "name": "שמן זית", "quantity": "4", "unit": "כפות" },
+        { "name": "רוזמרין", "quantity": "2", "unit": "כפות" },
+        { "name": "מלח גס", "quantity": "2", "unit": "כפות" },
+        { "name": "פלפל שחור", "quantity": "1", "unit": "כפית" },
+        { "name": "מרק ירקות", "quantity": "500", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "לחרוץ את הבשר ולהכניס לתוכו שיני שום",
+        "לשפשף את הבשר בשמן זית, תבלינים ומלח",
+        "להניח בתבנית אפייה עמוקה ולכסות בנייר אלומיניום",
+        "לאפות בתנור בחום 150 מעלות למשך 4 שעות",
+        "להסיר את הנייר ב-30 דקות האחרונות להשחמה",
+        "להגיש עם אורז ופיתה"
+      ],
+      "tags": ["כבש", "טנדיר", "איטי", "מיוחד", "חגיגי"]
+    },
+    {
+      "id": "chicken-sis",
+      "title": "שיפודי עוף תורכי",
+      "originalName": "Tavuk Şiş",
+      "description": "קוביות עוף במרינדה של יוגורט ותבלינים, צלויות על גחלים",
+      "category": "קבבים ובשרים",
+      "image": "images/Chicken_Sis.jpg",
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "חזה עוף בקוביות", "quantity": "600", "unit": "גרם" },
+        { "name": "יוגורט", "quantity": "150", "unit": "גרם" },
+        { "name": "מיץ לימון", "quantity": "3", "unit": "כפות" },
+        { "name": "שום כתוש", "quantity": "2", "unit": "שיניים" },
+        { "name": "פפריקה", "quantity": "1", "unit": "כפית" },
+        { "name": "כורכום", "quantity": "1/2", "unit": "כפית" },
+        { "name": "מלח ופלפל", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לערבב יוגורט, לימון, שום ותבלינים",
+        "להוסיף את העוף ולהשרות במרינדה למשך 2 שעות",
+        "לשפד את העוף על שיפודים",
+        "לצלות על גריל או במחבת 10-12 דקות",
+        "להגיש עם סלט ופיתה"
+      ],
+      "tags": ["עוף", "שיפודים", "קל", "בריא"]
+    },
+    {
+      "id": "beyti-kebab",
+      "title": "קבב ביתי",
+      "originalName": "Beyti Kebap",
+      "description": "קבב עוטף בלאווש, מוגש עם יוגורט ורוטב עגבניות",
+      "category": "קבבים ובשרים",
+      "image": "images/Beyti_Kebab.jpg",
+      "prepTime": 25,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "בשר טחון", "quantity": "500", "unit": "גרם" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" },
+        { "name": "כמון ופלפל אדום", "quantity": "1", "unit": "כפית" },
+        { "name": "לאווש", "quantity": "4", "unit": "יחידות" },
+        { "name": "יוגורט", "quantity": "200", "unit": "גרם" },
+        { "name": "רוטב עגבניות", "quantity": "200", "unit": "מ״ל" },
+        { "name": "חמאה מומסת", "quantity": "50", "unit": "גרם" }
+      ],
+      "instructions": [
+        "לערבב את הבשר עם שום ותבלינים וליצור נקניקיות ארוכות",
+        "לצלות על גריל עד שזהובות",
+        "לעטוף כל נקניקייה בלאווש",
+        "לחתוך לפרוסות ולהניח בצלחת",
+        "לשפוך רוטב עגבניות ויוגורט מעל",
+        "להוסיף חמאה מומסת עם פפריקה"
+      ],
+      "tags": ["קבב", "מיוחד", "לאווש", "מנה עיקרית"]
+    },
+    {
+      "id": "cizbiz-kofte",
+      "title": "כדורי בשר סיזביז",
+      "originalName": "Cızzbız Köfte",
+      "description": "כדורי בשר מוגשים על צלחת חמה עם עגבניות ופלפלים",
+      "category": "קבבים ובשרים",
+      "image": "images/Cizbiz_Kofte.jpg",
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בשר בקר טחון", "quantity": "400", "unit": "גרם" },
+        { "name": "בצל מגורר", "quantity": "1", "unit": "יחידה" },
+        { "name": "פטרוזיליה", "quantity": "2", "unit": "כפות" },
+        { "name": "עגבניות", "quantity": "2", "unit": "יחידות" },
+        { "name": "פלפל ירוק", "quantity": "2", "unit": "יחידות" },
+        { "name": "חמאה", "quantity": "30", "unit": "גרם" },
+        { "name": "תבלינים", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לערבב את הבשר עם בצל, פטרוזיליה ותבלינים",
+        "ליצור כדורים שטוחים",
+        "לטגן את הכדורים עד שזהובים",
+        "לחמם צלחת ברזל עד לוהטת",
+        "להניח את הכדורים, עגבניות ופלפלים על הצלחת החמה",
+        "להוסיף חמאה ולהגיש מיד כשרוחש"
+      ],
+      "tags": ["כדורי בשר", "צלחת חמה", "מיוחד", "רועש"]
+    },
+    {
+      "id": "patlican-kebab",
+      "title": "קבב חצילים",
+      "originalName": "Patlıcan Kebabı",
+      "description": "קבב בשר עם חצילים צלויים ועגבניות",
+      "category": "קבבים ובשרים",
+      "image": "images/Patlican_Kebab.jpg",
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "בשר כבש קוביות", "quantity": "400", "unit": "גרם" },
+        { "name": "חצילים", "quantity": "2", "unit": "יחידות" },
+        { "name": "עגבניות", "quantity": "3", "unit": "יחידות" },
+        { "name": "פלפל ירוק", "quantity": "2", "unit": "יחידות" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" },
+        { "name": "שמן זית", "quantity": "3", "unit": "כפות" },
+        { "name": "תבלינים", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לחתוך את החצילים לעיגולים ולצלות על גריל",
+        "לתבל את הבשר ולצלות במחבת",
+        "לקצוץ עגבניות ופלפלים גס",
+        "להוסיף את הירקות לבשר ולבשל יחד 10 דקות",
+        "להוסיף את החצילים הצלויים",
+        "להגיש עם אורז"
+      ],
+      "tags": ["קבב", "חצילים", "ירקות", "בריא"]
+    },
+    {
+      "id": "cacik",
+      "title": "ג'אג'יק - יוגורט מלפפונים",
+      "originalName": "Cacık",
+      "description": "סלט יוגורט קר עם מלפפונים, שום ונענע",
+      "category": "מזה וסלטים",
+      "image": "images/Cacik.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "יוגורט טבעי", "quantity": "500", "unit": "גרם" },
+        { "name": "מלפפון מגורד", "quantity": "1", "unit": "יחידה" },
+        { "name": "שום כתוש", "quantity": "2", "unit": "שיניים" },
+        { "name": "נענע טרייה קצוצה", "quantity": "2", "unit": "כפות" },
+        { "name": "שמן זית", "quantity": "2", "unit": "כפות" },
+        { "name": "מלח", "quantity": "1/2", "unit": "כפית" },
+        { "name": "מים קרים", "quantity": "100", "unit": "מ״ל" }
+      ],
+      "instructions": [
+        "לסחוט את המלפפון המגורד להסרת עודפי נוזלים",
+        "לערבב את היוגורט עם המים הקרים",
+        "להוסיף מלפפון, שום ונענע",
+        "לתבל במלח ולערבב היטב",
+        "להוסיף שמן זית מעל",
+        "לצנן במקרר ולהגיש קר"
+      ],
+      "tags": ["יוגורט", "קר", "קל", "צד", "רענן"]
+    },
+    {
+      "id": "coban-salad",
+      "title": "סלט רועים תורכי",
+      "originalName": "Çoban Salatası",
+      "description": "סלט ירקות טרי ופשוט עם עגבניות, מלפפון, בצל ופטרוזיליה",
+      "category": "מזה וסלטים",
+      "image": "images/Coban_Salad.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "עגבניות", "quantity": "3", "unit": "יחידות" },
+        { "name": "מלפפונים", "quantity": "2", "unit": "יחידות" },
+        { "name": "בצל אדום", "quantity": "1", "unit": "יחידה" },
+        { "name": "פלפל ירוק", "quantity": "2", "unit": "יחידות" },
+        { "name": "פטרוזיליה", "quantity": "1/2", "unit": "צרור" },
+        { "name": "שמן זית", "quantity": "3", "unit": "כפות" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" }
+      ],
+      "instructions": [
+        "לחתוך את כל הירקות לקוביות קטנות",
+        "לקצוץ את הפטרוזיליה דק",
+        "לערבב את כל המרכיבים בקערה",
+        "להוסיף שמן זית, לימון, מלח ופלפל",
+        "לערבב היטב ולהגיש מיד"
+      ],
+      "tags": ["סלט", "טרי", "קל", "בריא", "מהיר"]
+    },
+    {
+      "id": "ezme",
+      "title": "אזמה - סלסת עגבניות חריפה",
+      "originalName": "Ezme",
+      "description": "סלסה תורכית עשירה עם עגבניות, פלפלים, בצל ודבש רימונים",
+      "category": "מזה וסלטים",
+      "image": "images/Ezme.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "עגבניות", "quantity": "4", "unit": "יחידות" },
+        { "name": "פלפל ירוק חריף", "quantity": "2", "unit": "יחידות" },
+        { "name": "בצל אדום", "quantity": "1", "unit": "יחידה" },
+        { "name": "פטרוזיליה", "quantity": "1/2", "unit": "צרור" },
+        { "name": "דבס רימונים", "quantity": "2", "unit": "כפות" },
+        { "name": "שמן זית", "quantity": "3", "unit": "כפות" },
+        { "name": "פפריקה חריפה", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לקצוץ את כל הירקות לקוביות זעירות מאוד",
+        "לעסות את הירקות במעט כדי להוציא מיצים",
+        "להוסיף דבס רימונים, שמן זית ופפריקה",
+        "לתבל במלח ופלפל",
+        "לערבב היטב ולהגיש עם פיתה"
+      ],
+      "tags": ["סלסה", "חריף", "טרי", "מזה"]
+    },
+    {
+      "id": "piyaz",
+      "title": "פיאז - סלט שעועית לבנה",
+      "originalName": "Piyaz",
+      "description": "סלט שעועית לבנה עם ביצים קשות, עגבניות וזיתים",
+      "category": "מזה וסלטים",
+      "image": "images/Piyaz.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "שעועית לבנה מבושלת", "quantity": "400", "unit": "גרם" },
+        { "name": "ביצים קשות", "quantity": "2", "unit": "יחידות" },
+        { "name": "עגבניות", "quantity": "2", "unit": "יחידות" },
+        { "name": "בצל סגול", "quantity": "1", "unit": "יחידה" },
+        { "name": "זיתים שחורים", "quantity": "10", "unit": "יחידות" },
+        { "name": "שמן זית", "quantity": "3", "unit": "כפות" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" }
+      ],
+      "instructions": [
+        "לחתוך את הביצים, העגבניות והבצל",
+        "לערבב עם השעועית והזיתים",
+        "להוסיף שמן זית ולימון",
+        "לתבל במלח ופלפל",
+        "להגיש כסלט צד או מזה"
+      ],
+      "tags": ["סלט", "שעועית", "חלבון", "בריא"]
+    },
+    {
+      "id": "kisir",
+      "title": "כיסיר - טאבולה תורכית",
+      "originalName": "Kısır",
+      "description": "סלט בורגול עם עגבניות, מלפפון, נענע ודבס רימונים",
+      "category": "מזה וסלטים",
+      "image": "images/Kisir.jpg",
+      "prepTime": 20,
+      "cookTime": 0,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "בורגול דק", "quantity": "2", "unit": "כוסות" },
+        { "name": "ממרח עגבניות", "quantity": "3", "unit": "כפות" },
+        { "name": "דבס רימונים", "quantity": "2", "unit": "כפות" },
+        { "name": "מיץ לימון", "quantity": "3", "unit": "כפות" },
+        { "name": "עגבניות קצוצות", "quantity": "2", "unit": "יחידות" },
+        { "name": "מלפפון קצוץ", "quantity": "1", "unit": "יחידה" },
+        { "name": "פטרוזיליה ונענע", "quantity": "1", "unit": "צרור" }
+      ],
+      "instructions": [
+        "להשרות את הבורגול במים רותחים 15 דקות",
+        "לסחוט עודפי נוזלים",
+        "להוסיף ממרח עגבניות, דבס רימונים ולימון",
+        "לערבב עד שהבורגול סופח את הנוזלים",
+        "להוסיף ירקות טריים ועשבי תיבול",
+        "להגיש עם עלי חסה או בתור מזה"
+      ],
+      "tags": ["בורגול", "טאבולה", "סלט", "טבעוני", "מזה"]
+    },
+    {
+      "id": "haydari",
+      "title": "חיידרי - יוגורט עשבי תיבול",
+      "originalName": "Haydari",
+      "description": "מזה יוגורט עבה עם שום, עשבי תיבול וגבינה לבנה",
+      "category": "מזה וסלטים",
+      "image": "images/Haydari.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "יוגורט יווני עבה", "quantity": "300", "unit": "גרם" },
+        { "name": "גבינה לבנה", "quantity": "100", "unit": "גרם" },
+        { "name": "שום כתוש", "quantity": "3", "unit": "שיניים" },
+        { "name": "שמיר טרי קצוץ", "quantity": "3", "unit": "כפות" },
+        { "name": "נענע יבשה", "quantity": "1", "unit": "כפית" },
+        { "name": "שמן זית", "quantity": "2", "unit": "כפות" },
+        { "name": "מלח", "quantity": "1/2", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לערבב יוגורט וגבינה לבנה עד חלק",
+        "להוסיף שום, שמיר ונענע",
+        "לתבל במלח ופלפל",
+        "להעביר לקערת הגשה",
+        "להוסיף שמן זית מעל",
+        "להגיש עם פיתה חמה"
+      ],
+      "tags": ["יוגורט", "מזה", "צד", "קל"]
+    },
+    {
+      "id": "acili-ezme",
+      "title": "אג'ילי אזמה - סלסה חריפה",
+      "originalName": "Acılı Ezme",
+      "description": "סלסת עגבניות חריפה במיוחד עם פלפלים ואגוזי מלך",
+      "category": "מזה וסלטים",
+      "image": "images/Acili_Ezme.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "עגבניות", "quantity": "3", "unit": "יחידות" },
+        { "name": "פלפלים חריפים", "quantity": "3", "unit": "יחידות" },
+        { "name": "בצל אדום", "quantity": "1", "unit": "יחידה" },
+        { "name": "אגוזי מלך קצוצים", "quantity": "3", "unit": "כפות" },
+        { "name": "דבס רימונים", "quantity": "2", "unit": "כפות" },
+        { "name": "פפריקה חריפה", "quantity": "1", "unit": "כפית" },
+        { "name": "שמן זית", "quantity": "2", "unit": "כפות" }
+      ],
+      "instructions": [
+        "לקצוץ עגבניות ופלפלים דק מאוד",
+        "לקצוץ בצל דק",
+        "לערבב עם אגוזים קצוצים",
+        "להוסיף דבס, שמן זית ופפריקה",
+        "לתבל במלח ולערבב היטב",
+        "להגיש עם פיתה או לאווש"
+      ],
+      "tags": ["חריף", "סלסה", "מזה", "אגוזים"]
+    },
+    {
+      "id": "atom",
+      "title": "אטום - סלט חריף משגע",
+      "originalName": "Atom",
+      "description": "סלט חריף ביותר עם פלפלים, עגבניות ונענע",
+      "category": "מזה וסלטים",
+      "image": "images/Atom.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "פלפלים חריפים ירוקים", "quantity": "5", "unit": "יחידות" },
+        { "name": "עגבניות", "quantity": "2", "unit": "יחידות" },
+        { "name": "בצל", "quantity": "1", "unit": "יחידה" },
+        { "name": "נענע טרייה", "quantity": "3", "unit": "כפות" },
+        { "name": "שמן זית", "quantity": "2", "unit": "כפות" },
+        { "name": "לימון", "quantity": "1", "unit": "יחידה" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לקצוץ את כל הירקות לקוביות זעירות",
+        "להוסיף נענע טרייה קצוצה",
+        "להוסיף שמן זית ומיץ לימון",
+        "לתבל במלח",
+        "לערבב היטב ולהגיש כמזה חריף"
+      ],
+      "tags": ["חריף מאוד", "מזה", "נענע", "אקסטרים"]
+    },
+    {
+      "id": "patlican-salad",
+      "title": "סלט חצילים מעושנים",
+      "originalName": "Patlıcan Salatası",
+      "description": "חצילים צלויים עם יוגורט, שום ועשבי תיבול",
+      "category": "מזה וסלטים",
+      "image": "images/Patlican_Salad.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "חצילים גדולים", "quantity": "2", "unit": "יחידות" },
+        { "name": "יוגורט", "quantity": "3", "unit": "כפות" },
+        { "name": "שום כתוש", "quantity": "2", "unit": "שיניים" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" },
+        { "name": "פטרוזיליה", "quantity": "2", "unit": "כפות" },
+        { "name": "שמן זית", "quantity": "2", "unit": "כפות" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לצלות את החצילים על אש ישירה עד שהעור מושחר",
+        "להניח בשקית ולהמתין 10 דקות",
+        "לקלף את העור ולמעוך את הבשר",
+        "להוסיף יוגורט, שום, לימון ושמן",
+        "לתבל במלח ולקשט בפטרוזיליה",
+        "להגיש עם פיתה"
+      ],
+      "tags": ["חצילים", "מעושן", "מזה", "יוגורט"]
+    },
+    {
+      "id": "mercimek-salad",
+      "title": "סלט עדשים תורכי",
+      "originalName": "Mercimek Salatası",
+      "description": "סלט עדשים מזין עם ירקות ובצל",
+      "category": "מזה וסלטים",
+      "image": "images/Mercimek_Salad.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "עדשים ירוקות", "quantity": "1", "unit": "כוס" },
+        { "name": "בצל אדום", "quantity": "1", "unit": "יחידה" },
+        { "name": "עגבניות", "quantity": "2", "unit": "יחידות" },
+        { "name": "מלפפון", "quantity": "1", "unit": "יחידה" },
+        { "name": "פטרוזיליה", "quantity": "3", "unit": "כפות" },
+        { "name": "שמן זית", "quantity": "3", "unit": "כפות" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" }
+      ],
+      "instructions": [
+        "לבשל את העדשים במים רותחים 15-20 דקות",
+        "לסנן ולהניח להתקרר",
+        "לקצוץ את כל הירקות",
+        "לערבב עדשים וירקות",
+        "להוסיף שמן זית, לימון ופטרוזיליה",
+        "להגיש קר"
+      ],
+      "tags": ["עדשים", "חלבון", "בריא", "סלט"]
+    },
+    {
+      "id": "borek",
+      "title": "בורקס תורכי מסורתי",
+      "originalName": "Börek",
+      "description": "מאפה שכבות במילוי גבינה ופטרוזיליה",
+      "category": "מאפים ובורקס",
+      "image": "images/Borek.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 8,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "עלי יופקה (פילו)", "quantity": "10", "unit": "יחידות" },
+        { "name": "גבינה לבנה", "quantity": "300", "unit": "גרם" },
+        { "name": "גבינת פטה", "quantity": "200", "unit": "גרם" },
+        { "name": "פטרוזיליה קצוצה", "quantity": "1/2", "unit": "צרור" },
+        { "name": "ביצים", "quantity": "2", "unit": "יחידות" },
+        { "name": "חמאה מומסת", "quantity": "100", "unit": "גרם" },
+        { "name": "שומשום", "quantity": "2", "unit": "כפות" }
+      ],
+      "instructions": [
+        "לערבב את הגבינות עם פטרוזיליה וביצה אחת",
+        "לשמן תבנית אפייה בחמאה",
+        "לפרוס 5 עלי יופקה, כל אחד עם חמאה",
+        "לפזר את מילוי הגבינה",
+        "לכסות ב-5 עלים נוספים עם חמאה",
+        "למרוח ביצה וקצח שומשום, לאפות 30 דקות ב-180 מעלות"
+      ],
+      "tags": ["בורקס", "גבינה", "מאפה", "מסורתי"]
+    },
+    {
+      "id": "su-boregi",
+      "title": "בורקס מים",
+      "originalName": "Su Böreği",
+      "description": "בורקס רך ועסיסי עם שכבות יופקה שמבושלות במים",
+      "category": "מאפים ובורקס",
+      "image": "images/Su_Boregi.jpg",
+      "prepTime": 30,
+      "cookTime": 40,
+      "servings": 8,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "עלי יופקה", "quantity": "12", "unit": "יחידות" },
+        { "name": "גבינה לבנה", "quantity": "400", "unit": "גרם" },
+        { "name": "ביצים", "quantity": "3", "unit": "יחידות" },
+        { "name": "חלב", "quantity": "200", "unit": "מ״ל" },
+        { "name": "חמאה", "quantity": "150", "unit": "גרם" },
+        { "name": "שמן זית", "quantity": "2", "unit": "כפות" },
+        { "name": "מלח", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "להרתיח מים במים גדול עם מלח ושמן",
+        "לבשל כל עלה יופקה 30 שניות ולהעביר למים קרים",
+        "לסדר שכבות של יופקה עם מעט חמאה",
+        "אחרי 6 שכבות לפזר מילוי גבינה",
+        "להוסיף 6 שכבות נוספות",
+        "לערבב ביצה וחלב ולשפוך מעל, לאפות 35 דקות"
+      ],
+      "tags": ["בורקס", "מיוחד", "מאתגר", "רך"]
+    },
+    {
+      "id": "sigara-boregi",
+      "title": "בורקס סיגרים",
+      "originalName": "Sigara Böreği",
+      "description": "רולים דקים ופריכים של יופקה עם גבינה",
+      "category": "מאפים ובורקס",
+      "image": "images/Sigara_Boregi.jpg",
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "עלי יופקה", "quantity": "8", "unit": "יחידות" },
+        { "name": "גבינת פטה", "quantity": "200", "unit": "גרם" },
+        { "name": "פטרוזיליה", "quantity": "3", "unit": "כפות" },
+        { "name": "ביצה", "quantity": "1", "unit": "יחידה" },
+        { "name": "שמן לטיגון", "quantity": "לפי", "unit": "צורך" },
+        { "name": "פלפל שחור", "quantity": "1/4", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לערבב גבינה, פטרוזיליה ופלפל",
+        "לחתוך כל עלה יופקה לרצועות",
+        "להניח מעט מילוי בקצה כל רצועה",
+        "לגלגל כמו סיגר ולסגור עם ביצה",
+        "לטגן בשמן עמוק עד שזהוב",
+        "להגיש חם"
+      ],
+      "tags": ["בורקס", "מטוגן", "קל", "מהיר"]
+    },
+    {
+      "id": "gozleme",
+      "title": "גוזלמה - פיתה ממולאת",
+      "originalName": "Gözleme",
+      "description": "פיתה תורכית דקה מגולגלת עם מילוי גבינה ותרד",
+      "category": "מאפים ובורקס",
+      "image": "images/Gozleme.jpg",
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "3", "unit": "כוסות" },
+        { "name": "מים פושרים", "quantity": "1", "unit": "כוס" },
+        { "name": "גבינה לבנה", "quantity": "200", "unit": "גרם" },
+        { "name": "תרד קצוץ", "quantity": "150", "unit": "גרם" },
+        { "name": "שמן זית", "quantity": "2", "unit": "כפות" },
+        { "name": "מלח", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לערבב קמח, מים, מלח ושמן ללישת בצק",
+        "להשאיר למנוח 30 דקות",
+        "לחלק ל-4 חלקים ולרדד דק",
+        "למלא בגבינה ותרד וליתקפל לריבוע",
+        "לטגן על מחבת יבשה מכל צד",
+        "להגיש חם עם יוגורט"
+      ],
+      "tags": ["פיתה", "ממולא", "תרד", "גבינה"]
+    },
+    {
+      "id": "pide",
+      "title": "פידה תורכית",
+      "originalName": "Pide",
+      "description": "פיצה תורכית בצורת סירה עם בשר, גבינה או ירקות",
+      "category": "מאפים ובורקס",
+      "image": "images/Pide.jpg",
+      "prepTime": 40,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "3", "unit": "כוסות" },
+        { "name": "שמרים", "quantity": "1", "unit": "כפית" },
+        { "name": "מים פושרים", "quantity": "1", "unit": "כוס" },
+        { "name": "בשר טחון", "quantity": "300", "unit": "גרם" },
+        { "name": "בצל", "quantity": "1", "unit": "יחידה" },
+        { "name": "עגבניות", "quantity": "2", "unit": "יחידות" },
+        { "name": "ביצה", "quantity": "1", "unit": "יחידה" }
+      ],
+      "instructions": [
+        "להכין בצק עם קמח, שמרים, מים ומלח",
+        "להשאיר לתפיחה שעה",
+        "לטגן בשר עם בצל ועגבניות",
+        "לרדד את הבצק לצורת אליפסה",
+        "לפזר מילוי באמצע ולקפל את הקצוות",
+        "למרוח ביצה ולאפות 12-15 דקות"
+      ],
+      "tags": ["פיצה תורכית", "בשר", "בצק", "אפיה"]
+    },
+    {
+      "id": "pogaca",
+      "title": "פוגאצ'ה - לחמניות תורכיות",
+      "originalName": "Poğaça",
+      "description": "לחמניות רכות עם גבינה, זיתים או תפוחי אדמה",
+      "category": "מאפים ובורקס",
+      "image": "images/Pogaca.jpg",
+      "prepTime": 30,
+      "cookTime": 25,
+      "servings": 12,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "4", "unit": "כוסות" },
+        { "name": "שמרים", "quantity": "1", "unit": "כפית" },
+        { "name": "חלב פושר", "quantity": "1", "unit": "כוס" },
+        { "name": "ביצה", "quantity": "1", "unit": "יחידה" },
+        { "name": "שמן", "quantity": "1/2", "unit": "כוס" },
+        { "name": "גבינה לבנה", "quantity": "200", "unit": "גרם" },
+        { "name": "שומשום", "quantity": "3", "unit": "כפות" }
+      ],
+      "instructions": [
+        "להכין בצק משמרים עם כל המרכיבים",
+        "להשאיר לתפיחה שעה",
+        "לחלק לכדורים ולמלא בגבינה",
+        "לסגור ולהניח על תבנית",
+        "למרוח ביצה ולפזר שומשום",
+        "לאפות 20-25 דקות ב-180 מעלות"
+      ],
+      "tags": ["לחמניות", "גבינה", "אפיה", "ארוחת בוקר"]
+    },
+    {
+      "id": "katmer",
+      "title": "כתמר - מאפה מתוק",
+      "originalName": "Katmer",
+      "description": "מאפה שכבות פריך עם פיסטוקים וקרם",
+      "category": "מאפים ובורקס",
+      "image": "images/Katmer.jpg",
+      "prepTime": 40,
+      "cookTime": 15,
+      "servings": 6,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "קמח", "quantity": "2", "unit": "כוסות" },
+        { "name": "מים", "quantity": "3/4", "unit": "כוס" },
+        { "name": "חמאה", "quantity": "150", "unit": "גרם" },
+        { "name": "פיסטוקים טחונים", "quantity": "100", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "4", "unit": "כפות" },
+        { "name": "קרם (קיימק)", "quantity": "100", "unit": "גרם" },
+        { "name": "מלח", "quantity": "קורטוב", "unit": "" }
+      ],
+      "instructions": [
+        "להכין בצק רך מקמח, מים ומלח",
+        "לרדד דק מאוד ולמרוח חמאה",
+        "לקפל מספר פעמים כמו בצק עלים",
+        "לרדד שוב ולטגן במחבת",
+        "למלא בפיסטוקים, סוכר וקרם",
+        "להגיש חם"
+      ],
+      "tags": ["מתוק", "פיסטוקים", "קינוח", "מסורתי"]
+    },
+    {
+      "id": "lahmacun",
+      "title": "לחמג'ון - פיצה תורכית",
+      "originalName": "Lahmacun",
+      "description": "פיתה דקה עם בשר טחון, עגבניות ותבלינים",
+      "category": "מאפים ובורקס",
+      "image": "images/Lahmacun.jpg",
+      "prepTime": 30,
+      "cookTime": 10,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "3", "unit": "כוסות" },
+        { "name": "בשר טחון", "quantity": "300", "unit": "גרם" },
+        { "name": "עגבניות", "quantity": "2", "unit": "יחידות" },
+        { "name": "פלפל אדום", "quantity": "1", "unit": "יחידה" },
+        { "name": "בצל", "quantity": "1", "unit": "יחידה" },
+        { "name": "פטרוזיליה", "quantity": "1/2", "unit": "צרור" },
+        { "name": "ממרח עגבניות", "quantity": "2", "unit": "כפות" }
+      ],
+      "instructions": [
+        "להכין בצק פיתה ולהשאיר למנוח",
+        "לקצוץ עגבניות, פלפל ובצל דק מאוד",
+        "לערבב עם הבשר וממרח עגבניות",
+        "לרדד את הבצק דק מאוד",
+        "לפזר מעט מילוי על כל אחד",
+        "לאפות בתנור חם 8-10 דקות"
+      ],
+      "tags": ["פיצה", "בשר", "דק", "מסורתי"]
+    },
+    {
+      "id": "simit",
+      "title": "סימיט - בייגל תורכי",
+      "originalName": "Simit",
+      "description": "בייגל תורכי מסורתי מכוסה שומשום",
+      "category": "מאפים ובורקס",
+      "image": "images/Simit.jpg",
+      "prepTime": 25,
+      "cookTime": 20,
+      "servings": 8,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "4", "unit": "כוסות" },
+        { "name": "שמרים", "quantity": "1", "unit": "כפית" },
+        { "name": "מים פושרים", "quantity": "1.5", "unit": "כוס" },
+        { "name": "סוכר", "quantity": "1", "unit": "כפית" },
+        { "name": "מלח", "quantity": "1", "unit": "כפית" },
+        { "name": "דבש", "quantity": "2", "unit": "כפות" },
+        { "name": "שומשום", "quantity": "1", "unit": "כוס" }
+      ],
+      "instructions": [
+        "להכין בצק משמרים ולהשאיר לתפיחה",
+        "לחלק לחלקים וליצור חבלים",
+        "לקשור לצורת טבעת",
+        "לטבול בתמיסת דבש ומים",
+        "לעטוף בשומשום",
+        "לאפות 18-20 דקות עד זהוב"
+      ],
+      "tags": ["בייגל", "שומשום", "ארוחת בוקר", "רחוב"]
+    },
+    {
+      "id": "acma",
+      "title": "אקמה - לחמניות רכות",
+      "originalName": "Açma",
+      "description": "לחמניות תורכיות רכות בצורת קשר",
+      "category": "מאפים ובורקס",
+      "image": "images/Acma.jpg",
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 10,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "4", "unit": "כוסות" },
+        { "name": "חלב", "quantity": "1", "unit": "כוס" },
+        { "name": "שמרים", "quantity": "1", "unit": "כפית" },
+        { "name": "חמאה", "quantity": "80", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "2", "unit": "כפות" },
+        { "name": "ביצה", "quantity": "1", "unit": "יחידה" },
+        { "name": "שומשום", "quantity": "3", "unit": "כפות" }
+      ],
+      "instructions": [
+        "להכין בצק משמרים רך",
+        "להשאיר לתפיחה שעה",
+        "לחלק לחבלים וליצור קשרים",
+        "למרוח ביצה ולפזר שומשום",
+        "לאפות 18-20 דקות",
+        "להגיש עם גבינה וזיתים"
+      ],
+      "tags": ["לחמניות", "רכות", "ארוחת בוקר", "מסורתי"]
+    },
+    {
+      "id": "mercimek-soup",
+      "title": "מרק עדשים אדומות",
+      "originalName": "Mercimek Çorbası",
+      "description": "מרק עדשים אדומות קרמי עם לימון ונענע",
+      "category": "מרקים ותבשילים",
+      "image": "images/Mercimek_Soup.jpg",
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "עדשים אדומות", "quantity": "1.5", "unit": "כוס" },
+        { "name": "בצל", "quantity": "1", "unit": "יחידה" },
+        { "name": "גזר", "quantity": "1", "unit": "יחידה" },
+        { "name": "מרק עוף", "quantity": "6", "unit": "כוסות" },
+        { "name": "חמאה", "quantity": "2", "unit": "כפות" },
+        { "name": "לימון", "quantity": "1", "unit": "יחידה" },
+        { "name": "נענע יבשה", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לקצוץ בצל וגזר ולהזהיב בחמאה",
+        "להוסיף עדשים ומרק",
+        "לבשל 20 דקות עד שהעדשים רכות",
+        "לטחון עם מוט בלנדר עד חלק",
+        "להוסיף מיץ לימון ונענע",
+        "להגיש עם פרוסות לימון"
+      ],
+      "tags": ["מרק", "עדשים", "קל", "טבעוני", "בריא"]
+    },
+    {
+      "id": "yayla-soup",
+      "title": "מרק יאילה",
+      "originalName": "Yayla Çorbası",
+      "description": "מרק יוגורט עם אורז, נענע ושום",
+      "category": "מרקים ותבשילים",
+      "image": "images/Yayla_Soup.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "יוגורט", "quantity": "2", "unit": "כוסות" },
+        { "name": "אורז", "quantity": "1/2", "unit": "כוס" },
+        { "name": "מרק עוף", "quantity": "4", "unit": "כוסות" },
+        { "name": "ביצה", "quantity": "1", "unit": "יחידה" },
+        { "name": "נענע יבשה", "quantity": "1", "unit": "כפית" },
+        { "name": "חמאה", "quantity": "2", "unit": "כפות" },
+        { "name": "קמח", "quantity": "1", "unit": "כף" }
+      ],
+      "instructions": [
+        "לבשל אורז במרק עד רך",
+        "לערבב יוגורט עם ביצה וקמח",
+        "להוסיף לאט למרק החם תוך ערבוב",
+        "להמיס חמאה עם נענע",
+        "לשפוך את חמאת הנענע למרק",
+        "להגיש חם"
+      ],
+      "tags": ["מרק", "יוגורט", "אורז", "מסורתי"]
+    },
+    {
+      "id": "tarhana-soup",
+      "title": "מרק טרחנה",
+      "originalName": "Tarhana Çorbası",
+      "description": "מרק מסורתי מאבקת טרחנה מותססת",
+      "category": "מרקים ותבשילים",
+      "image": "images/Tarhana_Soup.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "אבקת טרחנה", "quantity": "4", "unit": "כפות" },
+        { "name": "מרק ירקות", "quantity": "4", "unit": "כוסות" },
+        { "name": "חמאה", "quantity": "2", "unit": "כפות" },
+        { "name": "ממרח עגבניות", "quantity": "1", "unit": "כף" },
+        { "name": "פפריקה", "quantity": "1", "unit": "כפית" },
+        { "name": "מלח ופלפל", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "להמיס חמאה ולהוסיף ממרח עגבניות",
+        "להוסיף טרחנה ולערבב",
+        "להוסיף מרק בהדרגה תוך ערבוב",
+        "לבשל 10 דקות",
+        "לתבל ולהגיש עם פרוסות לימון"
+      ],
+      "tags": ["מרק", "מותסס", "מסורתי", "מהיר"]
+    },
+    {
+      "id": "iskembe-soup",
+      "title": "מרק כרס",
+      "originalName": "İşkembe Çorbası",
+      "description": "מרק כרס מסורתי עם שום וחומץ",
+      "category": "מרקים ותבשילים",
+      "image": "images/Iskembe_Soup.jpg",
+      "prepTime": 20,
+      "cookTime": 120,
+      "servings": 6,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "כרס בקר", "quantity": "500", "unit": "גרם" },
+        { "name": "מרק עצמות", "quantity": "6", "unit": "כוסות" },
+        { "name": "שום", "quantity": "6", "unit": "שיניים" },
+        { "name": "חומץ", "quantity": "3", "unit": "כפות" },
+        { "name": "קמח", "quantity": "2", "unit": "כפות" },
+        { "name": "חמאה", "quantity": "2", "unit": "כפות" },
+        { "name": "פפריקה", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לנקות ולבשל את הכרס 90 דקות",
+        "לחתוך לפסים דקים",
+        "להכין רו מחמאה וקמח",
+        "להוסיף מרק והכרס",
+        "לבשל 20 דקות נוספות",
+        "להגיש עם שום כתוש וחומץ"
+      ],
+      "tags": ["מרק", "כרס", "מסורתי", "לילה"]
+    },
+    {
+      "id": "ezogelin-soup",
+      "title": "מרק אזו גלין",
+      "originalName": "Ezogelin Çorbası",
+      "description": "מרק עדשים אדומות עם בורגול ונענע",
+      "category": "מרקים ותבשילים",
+      "image": "images/Ezogelin_Soup.jpg",
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "עדשים אדומות", "quantity": "1", "unit": "כוס" },
+        { "name": "בורגול דק", "quantity": "1/2", "unit": "כוס" },
+        { "name": "בצל", "quantity": "1", "unit": "יחידה" },
+        { "name": "ממרח עגבניות", "quantity": "2", "unit": "כפות" },
+        { "name": "נענע יבשה", "quantity": "1", "unit": "כפית" },
+        { "name": "פפריקה", "quantity": "1", "unit": "כפית" },
+        { "name": "מרק ירקות", "quantity": "6", "unit": "כוסות" }
+      ],
+      "instructions": [
+        "להזהיב בצל בשמן",
+        "להוסיף עדשים, בורגול ומרק",
+        "לבשל 20 דקות",
+        "להוסיף ממרח עגבניות ותבלינים",
+        "לבשל 10 דקות נוספות",
+        "להגיש עם לימון"
+      ],
+      "tags": ["מרק", "עדשים", "בורגול", "מסורתי"]
+    },
+    {
+      "id": "kelle-paca",
+      "title": "מרק ראש וכרעיים",
+      "originalName": "Kelle Paça Çorbası",
+      "description": "מרק מסורתי מראש וכרעי כבש",
+      "category": "מרקים ותבשילים",
+      "image": "images/Kelle_Paca.jpg",
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 8,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "ראש כבש", "quantity": "1", "unit": "יחידה" },
+        { "name": "כרעי כבש", "quantity": "2", "unit": "יחידות" },
+        { "name": "שום", "quantity": "8", "unit": "שיניים" },
+        { "name": "חומץ", "quantity": "1/2", "unit": "כוס" },
+        { "name": "לימון", "quantity": "2", "unit": "יחידות" },
+        { "name": "מלח", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לנקות ולהרתיח את הראש והכרעיים",
+        "להחליף מים ולבשל 3 שעות",
+        "להוציא את הבשר מהעצמות",
+        "להחזיר למרק",
+        "להגיש עם שום כתוש, חומץ ולימון"
+      ],
+      "tags": ["מרק", "מסורתי", "מיוחד", "חורפי"]
+    },
+    {
+      "id": "karniyarik",
+      "title": "קרני-יאריק - חצילים ממולאים",
+      "originalName": "Karnıyarık",
+      "description": "חצילים צלויים במילוי בשר טחון ועגבניות",
+      "category": "מרקים ותבשילים",
+      "image": "images/Karniyarik.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "חצילים", "quantity": "4", "unit": "יחידות" },
+        { "name": "בשר טחון", "quantity": "300", "unit": "גרם" },
+        { "name": "בצל", "quantity": "2", "unit": "יחידות" },
+        { "name": "עגבניות", "quantity": "3", "unit": "יחידות" },
+        { "name": "פלפלים", "quantity": "2", "unit": "יחידות" },
+        { "name": "שום", "quantity": "3", "unit": "שיניים" },
+        { "name": "שמן לטיגון", "quantity": "לפי", "unit": "צורך" }
+      ],
+      "instructions": [
+        "לקלף את החצילים בפסים ולטגון",
+        "לפתוח חריץ באורך כל חציל",
+        "להזהיב בצל ולהוסיף בשר",
+        "להוסיף עגבניות ופלפלים קצוצים",
+        "למלא את החצילים במילוי",
+        "לאפות בתנור 30 דקות"
+      ],
+      "tags": ["חצילים", "ממולא", "בשר", "מנה עיקרית"]
+    },
+    {
+      "id": "imam-bayildi",
+      "title": "אימאם באיילדי",
+      "originalName": "İmam Bayıldı",
+      "description": "חצילים ממולאים בבצל, עגבניות ושום בשמן זית",
+      "category": "מרקים ותבשילים",
+      "image": "images/Imam_Bayildi.jpg",
+      "prepTime": 20,
+      "cookTime": 45,
+      "servings": 4,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "חצילים", "quantity": "4", "unit": "יחידות" },
+        { "name": "בצל", "quantity": "3", "unit": "יחידות" },
+        { "name": "עגבניות", "quantity": "3", "unit": "יחידות" },
+        { "name": "שום", "quantity": "5", "unit": "שיניים" },
+        { "name": "פטרוזיליה", "quantity": "1", "unit": "צרור" },
+        { "name": "שמן זית", "quantity": "1", "unit": "כוס" },
+        { "name": "סוכר", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לקלף את החצילים בפסים ולטגון קלות",
+        "לפתוח חריץ באמצע",
+        "להכין מילוי מבצל, עגבניות ושום מטוגנים",
+        "למלא את החצילים",
+        "לסדר בתבנית ולשפוך שמן זית",
+        "לבשל על אש נמוכה 40 דקות"
+      ],
+      "tags": ["חצילים", "טבעוני", "שמן זית", "קר"]
+    },
+    {
+      "id": "manti",
+      "title": "מאנטי - רביולי תורכי",
+      "originalName": "Mantı",
+      "description": "רביולי זעיר במילוי בשר, מוגש עם יוגורט ורוטב חמאה",
+      "category": "מרקים ותבשילים",
+      "image": "images/Manti.jpg",
+      "prepTime": 60,
+      "cookTime": 20,
+      "servings": 6,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "קמח", "quantity": "3", "unit": "כוסות" },
+        { "name": "ביצים", "quantity": "2", "unit": "יחידות" },
+        { "name": "בשר טחון", "quantity": "300", "unit": "גרם" },
+        { "name": "בצל", "quantity": "1", "unit": "יחידה" },
+        { "name": "יוגורט", "quantity": "2", "unit": "כוסות" },
+        { "name": "חמאה", "quantity": "50", "unit": "גרם" },
+        { "name": "פפריקה", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "להכין בצק מקמח וביצים",
+        "לרדד דק מאוד ולחתוך לריבועים זעירים",
+        "למלא בבשר ובצל ולקפל",
+        "לבשל במים רותחים 10 דקות",
+        "להגיש עם יוגורט ושום",
+        "לשפוך חמאה מומסת עם פפריקה"
+      ],
+      "tags": ["רביולי", "בשר", "יוגורט", "מסורתי"]
+    },
+    {
+      "id": "hamsili-pilav",
+      "title": "פילב אנשובי",
+      "originalName": "Hamsili Pilav",
+      "description": "אורז בתוספת אנשובי טרי מהים השחור",
+      "category": "מרקים ותבשילים",
+      "image": "images/Hamsili_Pilav.jpg",
+      "prepTime": 30,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "אנשובי טרי", "quantity": "500", "unit": "גרם" },
+        { "name": "אורז", "quantity": "2", "unit": "כוסות" },
+        { "name": "בצל", "quantity": "2", "unit": "יחידות" },
+        { "name": "צנוברים", "quantity": "3", "unit": "כפות" },
+        { "name": "צימוקים", "quantity": "3", "unit": "כפות" },
+        { "name": "שמן זית", "quantity": "4", "unit": "כפות" },
+        { "name": "תבלינים", "quantity": "לפי", "unit": "טעם" }
+      ],
+      "instructions": [
+        "לנקות את האנשובי ולהסיר עצמות",
+        "להזהיב בצל, צנוברים וצימוקים",
+        "להוסיף אורז ולערבב",
+        "לסדר שכבה של אורז ושכבה של דגים בתבנית",
+        "להוסיף מים ולאפות 35 דקות",
+        "להגיש חם"
+      ],
+      "tags": ["אורז", "דגים", "אנשובי", "מיוחד"]
+    },
+    {
+      "id": "baklava",
+      "title": "בקלאווה תורכית",
+      "originalName": "Baklava",
+      "description": "מאפה שכבות פילו עם פיסטוקים בסירופ מתוק",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Baklava.jpg",
+      "prepTime": 30,
+      "cookTime": 45,
+      "servings": 20,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "עלי יופקה", "quantity": "500", "unit": "גרם" },
+        { "name": "פיסטוקים טחונים", "quantity": "400", "unit": "גרם" },
+        { "name": "חמאה מומסת", "quantity": "250", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "2", "unit": "כוסות" },
+        { "name": "מים", "quantity": "1.5", "unit": "כוס" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" },
+        { "name": "מי ורדים", "quantity": "1", "unit": "כפית" }
+      ],
+      "instructions": [
+        "לשמן תבנית ולסדר 10 עלי יופקה עם חמאה",
+        "לפזר שכבת פיסטוקים",
+        "להמשיך לסרוג עד גמר המרכיבים",
+        "לחתוך למעויינים לפני האפייה",
+        "לאפות 40 דקות עד זהוב",
+        "להכין סירופ ולשפוך על הבקלאווה החמה"
+      ],
+      "tags": ["בקלאווה", "פיסטוקים", "מתוק", "מסורתי"]
+    },
+    {
+      "id": "kunefe",
+      "title": "כנאפה תורכית",
+      "originalName": "Künefe",
+      "description": "קינוח חם מקדאיף עם גבינה מתוקה ופיסטוקים",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Kunefe.jpg",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 6,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קדאיף", "quantity": "500", "unit": "גרם" },
+        { "name": "גבינת מוצרלה", "quantity": "300", "unit": "גרם" },
+        { "name": "חמאה", "quantity": "150", "unit": "גרם" },
+        { "name": "סוכר לסירופ", "quantity": "2", "unit": "כוסות" },
+        { "name": "מים", "quantity": "1", "unit": "כוס" },
+        { "name": "פיסטוקים טחונים", "quantity": "1/2", "unit": "כוס" },
+        { "name": "צבע מאכל אדום", "quantity": "טיפה", "unit": "" }
+      ],
+      "instructions": [
+        "לערבב את הקדאיף עם חמאה מומסת",
+        "לפרוס מחצית בתחתית תבנית",
+        "להניח שכבת גבינה",
+        "לכסות בשאר הקדאיף",
+        "לאפות עד שזהוב ופריך",
+        "להפוך על צלחת ולשפוך סירופ חם, לקשט בפיסטוקים"
+      ],
+      "tags": ["כנאפה", "קדאיף", "גבינה", "חם"]
+    },
+    {
+      "id": "turkish-delight",
+      "title": "לוקום תורכי",
+      "originalName": "Lokum",
+      "description": "ממתק ג'לטיני רך בטעמי פרחים ופירות",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Turkish_Delight.jpg",
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 40,
+      "difficulty": "מאתגר",
+      "ingredients": [
+        { "name": "סוכר", "quantity": "4", "unit": "כוסות" },
+        { "name": "עמילן תירס", "quantity": "1.5", "unit": "כוס" },
+        { "name": "מים", "quantity": "4", "unit": "כוסות" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" },
+        { "name": "מי ורדים", "quantity": "2", "unit": "כפות" },
+        { "name": "צבע מאכל", "quantity": "לפי", "unit": "רצון" },
+        { "name": "אבקת סוכר ועמילן", "quantity": "לפיזור", "unit": "" }
+      ],
+      "instructions": [
+        "להרתיח סוכר עם מחצית המים",
+        "להמיס עמילן במים הנותרים",
+        "לשלב ולבשל תוך ערבוב עד סמיך",
+        "להוסיף מי ורדים וצבע",
+        "לשפוך לתבנית משומנת",
+        "להשאיר להתקשות ולחתוך לקוביות, לפזר אבקת סוכר"
+      ],
+      "tags": ["לוקום", "ממתק", "מסורתי", "מתנה"]
+    },
+    {
+      "id": "sutlac",
+      "title": "סוטלאץ' - אורז בחלב",
+      "originalName": "Sütlaç",
+      "description": "קינוח אורז בחלב עם וניל ומעט קינמון",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Sutlac.jpg",
+      "prepTime": 10,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "אורז עגול", "quantity": "1/2", "unit": "כוס" },
+        { "name": "חלב", "quantity": "5", "unit": "כוסות" },
+        { "name": "סוכר", "quantity": "3/4", "unit": "כוס" },
+        { "name": "עמילן תירס", "quantity": "1", "unit": "כף" },
+        { "name": "וניל", "quantity": "1", "unit": "כפית" },
+        { "name": "קינמון", "quantity": "לקישוט", "unit": "" }
+      ],
+      "instructions": [
+        "לבשל את האורז בחלב על אש נמוכה",
+        "להוסיף סוכר ולהמשיך לבשל",
+        "להמיס עמילן במעט חלב קר ולהוסיף",
+        "לבשל עד סמיך",
+        "להוסיף וניל ולחלק לקערות",
+        "לקשט בקינמון ולהגיש קר"
+      ],
+      "tags": ["אורז בחלב", "קר", "קינוח", "קל"]
+    },
+    {
+      "id": "kazandibi",
+      "title": "קאזאנדיבי - תחתית הסיר",
+      "originalName": "Kazandibi",
+      "description": "פודינג חלב מקורמל בתחתית",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Kazandibi.jpg",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 8,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "חלב", "quantity": "1", "unit": "ליטר" },
+        { "name": "סוכר", "quantity": "1", "unit": "כוס" },
+        { "name": "קמח", "quantity": "4", "unit": "כפות" },
+        { "name": "עמילן אורז", "quantity": "4", "unit": "כפות" },
+        { "name": "מסטיק (סקיזה)", "quantity": "2", "unit": "גרגירים" },
+        { "name": "סוכר לקרמול", "quantity": "1/2", "unit": "כוס" },
+        { "name": "חזה עוף מבושל", "quantity": "100", "unit": "גרם" }
+      ],
+      "instructions": [
+        "לערבב חלב, סוכר, קמח ועמילן",
+        "להוסיף עוף מגורד ומסטיק טחון",
+        "לבשל תוך ערבוב עד סמיך",
+        "לקרמל סוכר בתבנית",
+        "לשפוך את הפודינג על הקרמל",
+        "לאפות קלות מלמעלה, להפוך ולהגיש"
+      ],
+      "tags": ["פודינג", "קרמל", "מסורתי", "מיוחד"]
+    },
+    {
+      "id": "revani",
+      "title": "רוואני - עוגת סולת",
+      "originalName": "Revani",
+      "description": "עוגת סולת ספוגה בסירופ לימון",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Revani.jpg",
+      "prepTime": 15,
+      "cookTime": 35,
+      "servings": 12,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "סולת", "quantity": "2", "unit": "כוסות" },
+        { "name": "סוכר", "quantity": "1", "unit": "כוס" },
+        { "name": "ביצים", "quantity": "4", "unit": "יחידות" },
+        { "name": "יוגורט", "quantity": "1", "unit": "כוס" },
+        { "name": "שמן", "quantity": "1/2", "unit": "כוס" },
+        { "name": "אבקת אפייה", "quantity": "1", "unit": "כפית" },
+        { "name": "סירופ סוכר", "quantity": "2", "unit": "כוסות" }
+      ],
+      "instructions": [
+        "להקציף ביצים עם סוכר",
+        "להוסיף יוגורט ושמן",
+        "להוסיף סולת ואבקת אפייה",
+        "לשפוך לתבנית משומנת",
+        "לאפות 30 דקות עד זהוב",
+        "לשפוך סירופ קר על העוגה החמה"
+      ],
+      "tags": ["עוגה", "סולת", "סירופ", "קל"]
+    },
+    {
+      "id": "tulumba",
+      "title": "טולומבה - סופגנייה תורכית",
+      "originalName": "Tulumba Tatlısı",
+      "description": "בצק מטוגן בצורת אצבעות ספוג בסירופ",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Tulumba.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 15,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "קמח", "quantity": "2", "unit": "כוסות" },
+        { "name": "מים", "quantity": "2", "unit": "כוסות" },
+        { "name": "חמאה", "quantity": "100", "unit": "גרם" },
+        { "name": "ביצים", "quantity": "3", "unit": "יחידות" },
+        { "name": "שמן לטיגון", "quantity": "לפי", "unit": "צורך" },
+        { "name": "סירופ סוכר", "quantity": "2", "unit": "כוסות" },
+        { "name": "מיץ לימון", "quantity": "2", "unit": "כפות" }
+      ],
+      "instructions": [
+        "להרתיח מים עם חמאה",
+        "להוסיף קמח בבת אחת ולערבב",
+        "להסיר מהאש ולהוסיף ביצים אחת אחת",
+        "להזריק בצורת אצבעות לשמן חם",
+        "לטגון עד זהוב",
+        "לטבול בסירופ קר ולהגיש"
+      ],
+      "tags": ["מטוגן", "סירופ", "מתוק", "מסורתי"]
+    },
+    {
+      "id": "sekerpare",
+      "title": "שקרפארה - עוגיות סירופ",
+      "originalName": "Şekerpare",
+      "description": "עוגיות רכות ספוגות בסירופ עם שקד",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Sekerpare.jpg",
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 20,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "קמח", "quantity": "3", "unit": "כוסות" },
+        { "name": "חמאה", "quantity": "150", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "1/2", "unit": "כוס" },
+        { "name": "ביצה", "quantity": "1", "unit": "יחידה" },
+        { "name": "אבקת אפייה", "quantity": "1", "unit": "כפית" },
+        { "name": "שקדים", "quantity": "20", "unit": "יחידות" },
+        { "name": "סירופ סוכר", "quantity": "2", "unit": "כוסות" }
+      ],
+      "instructions": [
+        "לערבב חמאה, סוכר וביצה",
+        "להוסיף קמח ואבקת אפייה",
+        "ליצור כדורים ולהניח שקד על כל אחד",
+        "לאפות 20 דקות עד זהוב",
+        "לשפוך סירופ קר על העוגיות החמות",
+        "להשאיר לספיגה ולהגיש"
+      ],
+      "tags": ["עוגיות", "סירופ", "שקדים", "קל"]
+    },
+    {
+      "id": "asure",
+      "title": "אשורה - קינוח נח",
+      "originalName": "Aşure",
+      "description": "קינוח מסורתי מחיטה, קטניות, פירות ואגוזים",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Asure.jpg",
+      "prepTime": 30,
+      "cookTime": 120,
+      "servings": 12,
+      "difficulty": "בינוני",
+      "ingredients": [
+        { "name": "חיטה מלאה", "quantity": "1", "unit": "כוס" },
+        { "name": "שעועית לבנה", "quantity": "1/2", "unit": "כוס" },
+        { "name": "אורז", "quantity": "1/2", "unit": "כוס" },
+        { "name": "צימוקים", "quantity": "1/2", "unit": "כוס" },
+        { "name": "אגוזי מלך", "quantity": "1/2", "unit": "כוס" },
+        { "name": "רימון", "quantity": "1", "unit": "יחידה" },
+        { "name": "סוכר", "quantity": "1", "unit": "כוס" }
+      ],
+      "instructions": [
+        "להשרות חיטה ושעועית ללילה",
+        "לבשל כל אחד בנפרד עד רך",
+        "לבשל אורז בנפרד",
+        "לערבב הכל עם סוכר",
+        "לבשל יחד 30 דקות",
+        "לקשט באגוזים ורימון ולהגיש קר"
+      ],
+      "tags": ["מסורתי", "דתי", "פירות", "אגוזים"]
+    },
+    {
+      "id": "halva",
+      "title": "חלווה תורכית",
+      "originalName": "Helva",
+      "description": "חלווה קלאסית מסולת או קמח עם חמאה וסוכר",
+      "category": "קינוחים ומתוקים",
+      "image": "images/Halva.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 6,
+      "difficulty": "קל",
+      "ingredients": [
+        { "name": "סולת", "quantity": "1", "unit": "כוס" },
+        { "name": "חמאה", "quantity": "100", "unit": "גרם" },
+        { "name": "סוכר", "quantity": "1", "unit": "כוס" },
+        { "name": "מים או חלב", "quantity": "2", "unit": "כוסות" },
+        { "name": "צנוברים", "quantity": "3", "unit": "כפות" },
+        { "name": "קינמון", "quantity": "1/2", "unit": "כפית" }
+      ],
+      "instructions": [
+        "להזהיב סולת וצנוברים בחמאה",
+        "להכין סירופ מסוכר ומים",
+        "לשפוך את הסירופ על הסולת בזהירות",
+        "לערבב מהר ולכסות",
+        "להשאיר 10 דקות",
+        "להגיש חם עם קינמון"
+      ],
+      "tags": ["חלווה", "קל", "מהיר", "מסורתי"]
+    }
+  ]
+}
