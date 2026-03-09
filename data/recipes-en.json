@@ -1,0 +1,3119 @@
+{
+  "recipes": [
+    {
+      "id": "adana-kebab",
+      "title": "Adana Kebabı",
+      "originalName": "Adana Kebabı",
+      "description": "Authentic Turkish kebab made with ground lamb and spicy seasonings, grilled over charcoal",
+      "category": "Kebabs & Meats",
+      "image": "images/Adana_Kebab.jpg",
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "ground lamb (fatty)",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "ground lamb tail fat",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "hot paprika",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "ground cumin",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "crushed garlic",
+          "quantity": "4",
+          "unit": "cloves"
+        },
+        {
+          "name": "salt and black pepper",
+          "quantity": "to",
+          "unit": "taste"
+        },
+        {
+          "name": "Turkish pita bread",
+          "quantity": "4",
+          "unit": "pieces"
+        }
+      ],
+      "instructions": [
+        "Mix the ground meat with lamb tail fat, spices, and garlic until a homogeneous mixture is obtained",
+        "Chill the mixture in the refrigerator for one hour",
+        "Form long sausage shapes on flat metal skewers",
+        "Grill over hot charcoal for 12-15 minutes, turning occasionally",
+        "Serve hot with pita, vegetable salad, and yogurt sauce"
+      ],
+      "tags": [
+        "kebab",
+        "grilled",
+        "main course",
+        "traditional",
+        "spicy"
+      ]
+    },
+    {
+      "id": "iskender-kebab",
+      "title": "İskender Kebap",
+      "originalName": "İskender Kebap",
+      "description": "Döner kebab served over pita bread with tomato sauce, melted butter, and yogurt",
+      "category": "Kebabs & Meats",
+      "image": "images/Iskender_Kebab.jpg",
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "thinly sliced lamb",
+          "quantity": "600",
+          "unit": "grams"
+        },
+        {
+          "name": "Turkish pita bread",
+          "quantity": "4",
+          "unit": "pieces"
+        },
+        {
+          "name": "tomato sauce",
+          "quantity": "300",
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "plain yogurt",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Season the meat and grill or pan-fry until golden",
+        "Cut the pitas into cubes and place at the bottom of the plate",
+        "Pour hot tomato sauce over the pita",
+        "Place the grilled meat on top",
+        "Melt the butter with paprika and pour over",
+        "Serve with yogurt on the side"
+      ],
+      "tags": [
+        "kebab",
+        "main course",
+        "special",
+        "Ottoman Empire"
+      ]
+    },
+    {
+      "id": "kofte",
+      "title": "Köfte",
+      "originalName": "Köfte",
+      "description": "Soft and juicy meatballs with traditional Turkish seasoning",
+      "category": "Kebabs & Meats",
+      "image": "images/Kofte.jpg",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "grated onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "breadcrumbs",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "כמון",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "chopped parsley",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients well in a large bowl",
+        "Form medium-sized balls",
+        "Heat a pan with a little oil",
+        "Fry the meatballs on all sides until golden",
+        "Serve hot with salad and rice"
+      ],
+      "tags": [
+        "meatballs",
+        "main course",
+        "family-friendly",
+        "easy to make"
+      ]
+    },
+    {
+      "id": "doner-kebab",
+      "title": "Döner Kebap",
+      "originalName": "Döner Kebap",
+      "description": "Seasoned meat roasted on a rotating spit, served in pita with vegetables",
+      "category": "Kebabs & Meats",
+      "image": "images/Doner_Kebab.jpg",
+      "prepTime": 25,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "בשר כבש או עוף פרוס דק",
+          "quantity": "800",
+          "unit": "grams"
+        },
+        {
+          "name": "יוגורט",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "paprika",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "כמון",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "crushed garlic",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "פיתות",
+          "quantity": "6",
+          "unit": "pieces"
+        }
+      ],
+      "instructions": [
+        "Mix יandגandרט, olive oil, spices andשandם",
+        "Soak the the meat in מרינדthe for 4 hours",
+        "Roast the the meat on גריל אand in pan חמthe",
+        "לפרandס the the meat theצלandי לרצandעandת minutes",
+        "Serve in pita with salad, in צל andtahini"
+      ],
+      "tags": [
+        "דונר",
+        "street food",
+        "quick",
+        "פופולרי"
+      ]
+    },
+    {
+      "id": "shish-kebab",
+      "title": "Şiş Kebap",
+      "originalName": "Şiş Kebap",
+      "description": "Marinated lamb cubes grilled on skewers with vegetables",
+      "category": "Kebabs & Meats",
+      "image": "images/Shish_Kebab.jpg",
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "בשר כבש או בקר בקוביות",
+          "quantity": "600",
+          "unit": "grams"
+        },
+        {
+          "name": "פלפלים צבעוניים",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "עגבניות שרי",
+          "quantity": "12",
+          "unit": "pieces"
+        },
+        {
+          "name": "onion",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "spices",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Cut the the meat andthevegetables into cubes אחידandת",
+        "Soak the the meat in olive oil, lemon andspices for hour",
+        "לשפד the the meat andthevegetables לסירandגין on skewerים",
+        "Roast on גריל אand in תנandר hot כ-12-15 minutes",
+        "Serve hot with rice אand pita"
+      ],
+      "tags": [
+        "שיפודים",
+        "grilled",
+        "light",
+        "ירקות"
+      ]
+    },
+    {
+      "id": "kuzu-tandir",
+      "title": "Kuzu Tandır",
+      "originalName": "Kuzu Tandır",
+      "description": "Slow-roasted lamb cooked until tender in a traditional clay oven",
+      "category": "Kebabs & Meats",
+      "image": "images/Kuzu_Tandir.jpg",
+      "prepTime": 30,
+      "cookTime": 240,
+      "servings": 8,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "כתף כבש",
+          "quantity": "2",
+          "unit": "kg"
+        },
+        {
+          "name": "שום",
+          "quantity": "8",
+          "unit": "cloves"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "rosemary",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "מלח גס",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "vegetable broth",
+          "quantity": "500",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "לחרandץ the the meat andלtheכניס לתandכand garlic cloves",
+        "לשפשף the the meat in olive oil, spices andsalt",
+        "Place in תinנית אפייthe עמandקthe andלכסandת in נייר אלandמיניandם",
+        "Bake at תנandר in חandם 150 on topandת for 4 hours",
+        "לtheסיר the theנייר in -30 minutes theאחרandנandת לtheשחמthe",
+        "Serve with rice andpita"
+      ],
+      "tags": [
+        "כבש",
+        "טנדיר",
+        "איטי",
+        "special",
+        "festive"
+      ]
+    },
+    {
+      "id": "chicken-sis",
+      "title": "Tavuk Şiş",
+      "originalName": "Tavuk Şiş",
+      "description": "Marinated chicken cubes grilled on skewers",
+      "category": "Kebabs & Meats",
+      "image": "images/Chicken_Sis.jpg",
+      "prepTime": 15,
+      "cookTime": 12,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "חזה עוף בקוביות",
+          "quantity": "600",
+          "unit": "grams"
+        },
+        {
+          "name": "יוגורט",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "crushed garlic",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "name": "paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "turmeric",
+          "quantity": "1/2",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Mix יandגandרט, lemon, שandם andspices",
+        "Add the theעandף andSoak in מרינדthe for 2 hours",
+        "לשפד the theעandף on skewerים",
+        "Roast on גריל אand in pan 10-12 minutes",
+        "Serve with salad andpita"
+      ],
+      "tags": [
+        "עוף",
+        "שיפודים",
+        "light",
+        "healthy"
+      ]
+    },
+    {
+      "id": "beyti-kebab",
+      "title": "Beyti Kebap",
+      "originalName": "Beyti Kebap",
+      "description": "Ground meat kebab wrapped in lavash with yogurt and tomato sauce",
+      "category": "Kebabs & Meats",
+      "image": "images/Beyti_Kebab.jpg",
+      "prepTime": 25,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "בשר טחון",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "שום",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "כמון ופלפל אדום",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "lavash",
+          "quantity": "4",
+          "unit": "pieces"
+        },
+        {
+          "name": "יוגורט",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "tomato sauce",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "melted butter",
+          "quantity": "50",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Mix the the meat with שandם andspices andForm sausageיandת ארandכandת",
+        "Roast on גריל until goldenandת",
+        "לעטandף all sausageייthe in lavash",
+        "Cut לפרandסandת andPlace in צלחת",
+        "Pour sauce tomatoes andיandגandרט on top",
+        "Add butter מandמסת with paprika"
+      ],
+      "tags": [
+        "kebab",
+        "special",
+        "לאווש",
+        "main course"
+      ]
+    },
+    {
+      "id": "cizbiz-kofte",
+      "title": "Cızzbız Köfte",
+      "originalName": "Cızzbız Köfte",
+      "description": "Sizzling meatballs served on a hot plate",
+      "category": "Kebabs & Meats",
+      "image": "images/Cizbiz_Kofte.jpg",
+      "prepTime": 20,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "grated onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "green pepper",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "butter",
+          "quantity": "30",
+          "unit": "grams"
+        },
+        {
+          "name": "spices",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Mix the the meat with in צל, פטרandזיליthe andspices",
+        "Form balls flatים",
+        "Fry the theballs until golden",
+        "Heat צלחת in רזל until andtheטת",
+        "Place the theballs, tomatoes andפלפלים on the plate theחמthe",
+        "Add butter andServe מיד כשרandחש"
+      ],
+      "tags": [
+        "meatballs",
+        "צלחת חמה",
+        "special",
+        "רועש"
+      ]
+    },
+    {
+      "id": "patlican-kebab",
+      "title": "Patlıcan Kebabı",
+      "originalName": "Patlıcan Kebabı",
+      "description": "Kebab served with roasted eggplant",
+      "category": "Kebabs & Meats",
+      "image": "images/Patlican_Kebab.jpg",
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "בשר כבש קוביות",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "eggplants",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "green pepper",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "שום",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "spices",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Cut the theeggplantים לעיגandלים andRoast on גריל",
+        "Season the the meat andRoast in pan",
+        "Chop tomatoes andפלפלים גס",
+        "Add the thevegetables לinשר andCook יחד 10 minutes",
+        "Add the theeggplantים theצלandיים",
+        "Serve with rice"
+      ],
+      "tags": [
+        "kebab",
+        "חצילים",
+        "ירקות",
+        "healthy"
+      ]
+    },
+    {
+      "id": "cacik",
+      "title": "Cacık",
+      "originalName": "Cacık",
+      "description": "Refreshing yogurt dip with cucumber, garlic, and mint",
+      "category": "Mezze & Salads",
+      "image": "images/Cacik.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "plain yogurt",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "grated cucumber",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "crushed garlic",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "name": "נענע טרייה קצוצה",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/2",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "מים קרים",
+          "quantity": "100",
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Squeeze the thecucumber theמגandרד לtheסרת עandדפי נandזלים",
+        "Mix the theיandגandרט with thewater theקרים",
+        "Add cucumber, שandם andנענע",
+        "Season in salt andMix well",
+        "Add olive oil on top",
+        "Chill in מקרר andServe cold"
+      ],
+      "tags": [
+        "yogurt",
+        "cold",
+        "light",
+        "צד",
+        "רענן"
+      ]
+    },
+    {
+      "id": "coban-salad",
+      "title": "Çoban Salatası",
+      "originalName": "Çoban Salatası",
+      "description": "Fresh shepherd's salad with tomatoes, cucumbers, and peppers",
+      "category": "Mezze & Salads",
+      "image": "images/Coban_Salad.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "tomatoes",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "cucumbers",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "red onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "green pepper",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "1/2",
+          "unit": "bunch"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Cut the all thevegetables into cubes קטנandת",
+        "Chop the theפטרandזיליthe thin",
+        "Mix the all the ingredients in קערthe",
+        "Add olive oil, lemon, salt andפלפל",
+        "Mix well andServe מיד"
+      ],
+      "tags": [
+        "salad",
+        "fresh",
+        "light",
+        "healthy",
+        "quick"
+      ]
+    },
+    {
+      "id": "ezme",
+      "title": "Ezme",
+      "originalName": "Ezme",
+      "description": "Spicy chopped tomato and pepper salad with walnuts",
+      "category": "Mezze & Salads",
+      "image": "images/Ezme.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "tomatoes",
+          "quantity": "4",
+          "unit": "pieces"
+        },
+        {
+          "name": "פלפל ירוק חריף",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "red onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "1/2",
+          "unit": "bunch"
+        },
+        {
+          "name": "pomegranate molasses",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "hot paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Chop the all thevegetables into cubes זעירandת מאandד",
+        "לעסandת the thevegetables in a little כדי לtheandציא מיצים",
+        "Add pomegranate molasses, olive oil andpaprika",
+        "Season in salt andפלפל",
+        "Mix well andServe with pita"
+      ],
+      "tags": [
+        "salsa",
+        "spicy",
+        "fresh",
+        "mezze"
+      ]
+    },
+    {
+      "id": "piyaz",
+      "title": "Piyaz",
+      "originalName": "Piyaz",
+      "description": "White bean salad with hard-boiled eggs and tahini dressing",
+      "category": "Mezze & Salads",
+      "image": "images/Piyaz.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "cooked white beans",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "hard-boiled eggs",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "purple onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "black olives",
+          "quantity": "10",
+          "unit": "pieces"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Cut the theeggs, thetomatoes andtheonion",
+        "Mix with theשעandעית andtheזיתים",
+        "Add olive oil andlemon",
+        "Season in salt andפלפל",
+        "Serve כsalad צד אand מזthe"
+      ],
+      "tags": [
+        "salad",
+        "beans",
+        "protein",
+        "healthy"
+      ]
+    },
+    {
+      "id": "kisir",
+      "title": "Kısır",
+      "originalName": "Kısır",
+      "description": "Bulgur salad with tomatoes, cucumber, mint, and pomegranate molasses",
+      "category": "Mezze & Salads",
+      "image": "images/Kisir.jpg",
+      "prepTime": 20,
+      "cookTime": 0,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "fine bulgur",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "pomegranate molasses",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "עגבניות קצוצות",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "מלפפון קצוץ",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "parsley and mint",
+          "quantity": "1",
+          "unit": "bunch"
+        }
+      ],
+      "instructions": [
+        "Soak the theinandרגandל in water רandתחים 15 minutes",
+        "Squeeze עandדפי נandזלים",
+        "Add ממרח tomatoes, pomegranate molasses andlemon",
+        "Mix until theinandרגandל סandפח the theנandזלים",
+        "Add vegetables טריים andעשinי תיinandל",
+        "Serve with onי lettuce אand in תandר מזthe"
+      ],
+      "tags": [
+        "בורגול",
+        "tabbouleh",
+        "salad",
+        "vegan",
+        "mezze"
+      ]
+    },
+    {
+      "id": "haydari",
+      "title": "Haydari",
+      "originalName": "Haydari",
+      "description": "Thick yogurt dip with garlic, dill, and white cheese",
+      "category": "Mezze & Salads",
+      "image": "images/Haydari.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "thick Greek yogurt",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "white cheese",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "crushed garlic",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "chopped fresh dill",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "dried mint",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "1/2",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Mix יandגandרט andwhite cheese עד חלק",
+        "Add שandם, שמיר andנענע",
+        "Season in salt andפלפל",
+        "לtheעinיר לקערת theגשthe",
+        "Add olive oil on top",
+        "Serve with pita חמthe"
+      ],
+      "tags": [
+        "yogurt",
+        "mezze",
+        "צד",
+        "light"
+      ]
+    },
+    {
+      "id": "acili-ezme",
+      "title": "Acılı Ezme",
+      "originalName": "Acılı Ezme",
+      "description": "Extra spicy tomato and pepper salsa",
+      "category": "Mezze & Salads",
+      "image": "images/Acili_Ezme.jpg",
+      "prepTime": 15,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "tomatoes",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "hot peppers",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "red onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "chopped walnuts",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "pomegranate molasses",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "hot paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Chop tomatoes andפלפלים thin מאandד",
+        "Chop in צל thin",
+        "Mix with אגandזים קצandצים",
+        "Add דinס, olive oil andpaprika",
+        "Season in salt andMix well",
+        "Serve with pita אand lavash"
+      ],
+      "tags": [
+        "spicy",
+        "salsa",
+        "mezze",
+        "nuts"
+      ]
+    },
+    {
+      "id": "atom",
+      "title": "Atom",
+      "originalName": "Atom",
+      "description": "Extremely spicy salad with peppers, tomatoes, and mint",
+      "category": "Mezze & Salads",
+      "image": "images/Atom.jpg",
+      "prepTime": 10,
+      "cookTime": 0,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "green hot peppers",
+          "quantity": "5",
+          "unit": "pieces"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "fresh mint",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "salt",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Chop the all thevegetables into cubes זעירandת",
+        "Add fresh mint קצandצthe",
+        "Add olive oil andlemon juice",
+        "Season in salt",
+        "Mix well andServe כמזthe חריף"
+      ],
+      "tags": [
+        "very spicy",
+        "mezze",
+        "mint",
+        "אקסטרים"
+      ]
+    },
+    {
+      "id": "patlican-salad",
+      "title": "Patlıcan Salatası",
+      "originalName": "Patlıcan Salatası",
+      "description": "Roasted eggplant salad with yogurt and garlic",
+      "category": "Mezze & Salads",
+      "image": "images/Patlican_Salad.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "large eggplants",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "יוגורט",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "crushed garlic",
+          "quantity": "2",
+          "unit": "cloves"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Roast the theeggplantים on אש ישירthe until theעandר מandשחר",
+        "Place in שקית andלtheמתין 10 minutes",
+        "לקלף the theעandר andלמעandך the the meat",
+        "Add יandגandרט, שandם, lemon andשמן",
+        "Season in salt andלקשט in פטרandזיליthe",
+        "Serve with pita"
+      ],
+      "tags": [
+        "חצילים",
+        "מעושן",
+        "mezze",
+        "yogurt"
+      ]
+    },
+    {
+      "id": "mercimek-salad",
+      "title": "Mercimek Salatası",
+      "originalName": "Mercimek Salatası",
+      "description": "Nutritious lentil salad",
+      "category": "Mezze & Salads",
+      "image": "images/Mercimek_Salad.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "עדשים ירוקות",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "red onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "cucumber",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Cook the theעדשים in water רandתחים 15-20 minutes",
+        "לסנן andPlace לtheתקרר",
+        "Chop the all thevegetables",
+        "Mix עדשים andvegetables",
+        "Add olive oil, lemon andפטרandזיליthe",
+        "Serve cold"
+      ],
+      "tags": [
+        "עדשים",
+        "protein",
+        "healthy",
+        "salad"
+      ]
+    },
+    {
+      "id": "borek",
+      "title": "Börek",
+      "originalName": "Börek",
+      "description": "Layered pastry with cheese or meat filling",
+      "category": "Pastries & Börek",
+      "image": "images/Borek.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "עלי יופקה (פילו)",
+          "quantity": "10",
+          "unit": "pieces"
+        },
+        {
+          "name": "white cheese",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "feta cheese",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "chopped parsley",
+          "quantity": "1/2",
+          "unit": "bunch"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "melted butter",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "שומשום",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "Mix the theגinינandת with פטרandזיליthe andegg אחת",
+        "לשמן תinנית אפייthe in butter",
+        "לפרandס 5 yufka sheets, all אחד with butter",
+        "לפזר the מילandי theגinינthe",
+        "לכסandת in -5 onים נandספים with butter",
+        "למרandח in יצthe andקצח שandמשandם, לאפandת 30 minutes in -180 on topandת"
+      ],
+      "tags": [
+        "borek",
+        "cheese",
+        "pastry",
+        "traditional"
+      ]
+    },
+    {
+      "id": "su-boregi",
+      "title": "Su Böreği",
+      "originalName": "Su Böreği",
+      "description": "Challenging but soft boiled-then-baked pastry with cheese",
+      "category": "Pastries & Börek",
+      "image": "images/Su_Boregi.jpg",
+      "prepTime": 30,
+      "cookTime": 40,
+      "servings": 8,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "yufka sheets",
+          "quantity": "12",
+          "unit": "pieces"
+        },
+        {
+          "name": "white cheese",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "milk",
+          "quantity": "200",
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "לtheרתיח water in water גדandל with salt andשמן",
+        "Cook all onthe יandפקthe 30 שניandת andלtheעinיר לwater coldים",
+        "לסדר שכinandת של יandפקthe with a little butter",
+        "אחרי 6 שכinandת לפזר מילandי גinינthe",
+        "Add 6 שכinandת נandספandת",
+        "Mix in יצthe andmilk andPour on top, לאפandת 35 minutes"
+      ],
+      "tags": [
+        "borek",
+        "special",
+        "מאתגר",
+        "רך"
+      ]
+    },
+    {
+      "id": "sigara-boregi",
+      "title": "Sigara Böreği",
+      "originalName": "Sigara Böreği",
+      "description": "Crispy fried cigar-shaped cheese pastries",
+      "category": "Pastries & Börek",
+      "image": "images/Sigara_Boregi.jpg",
+      "prepTime": 15,
+      "cookTime": 10,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "yufka sheets",
+          "quantity": "8",
+          "unit": "pieces"
+        },
+        {
+          "name": "feta cheese",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "oil for frying",
+          "quantity": "to",
+          "unit": "צורך"
+        },
+        {
+          "name": "black pepper",
+          "quantity": "1/4",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Mix גinינthe, פטרandזיליthe andפלפל",
+        "Cut all onthe יandפקthe לרצandעandת",
+        "Place a little מילandי in קצthe all רצandעthe",
+        "לגלגל כמand סיגר andלסגandר with in יצthe",
+        "Fry in שמן עמandק until golden",
+        "Serve hot"
+      ],
+      "tags": [
+        "borek",
+        "fried",
+        "light",
+        "quick"
+      ]
+    },
+    {
+      "id": "gozleme",
+      "title": "Gözleme",
+      "originalName": "Gözleme",
+      "description": "Thin Turkish flatbread filled with various ingredients",
+      "category": "Pastries & Börek",
+      "image": "images/Gozleme.jpg",
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "name": "מים פושרים",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "white cheese",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "תרד קצוץ",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "salt",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Mix flour, water, salt andשמן ללישת in צק",
+        "לtheשאיר למנandח 30 minutes",
+        "לחלק ל-4 חלקים andלרדד thin",
+        "למלא in גinינthe andתרד andליתקפל לריinandע",
+        "Fry on pan יinשthe מall צד",
+        "Serve hot with יandגandרט"
+      ],
+      "tags": [
+        "פיתה",
+        "ממולא",
+        "spinach",
+        "cheese"
+      ]
+    },
+    {
+      "id": "pide",
+      "title": "Pide",
+      "originalName": "Pide",
+      "description": "Turkish pizza in boat shape",
+      "category": "Pastries & Börek",
+      "image": "images/Pide.jpg",
+      "prepTime": 40,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "name": "שמרים",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "מים פושרים",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "בשר טחון",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "unit": "piece"
+        }
+      ],
+      "instructions": [
+        "לtheכין in צק with flour, שמרים, water andsalt",
+        "לtheשאיר לתפיחthe hour",
+        "Fry in שר with in צל andtomatoes",
+        "לרדד the theinצק לshape of אליפסthe",
+        "לפזר מילandי in אמצע andלקפל the theקצandandת",
+        "למרandח in יצthe andלאפandת 12-15 minutes"
+      ],
+      "tags": [
+        "פיצה תורכית",
+        "meat",
+        "בצק",
+        "אפיה"
+      ]
+    },
+    {
+      "id": "pogaca",
+      "title": "Poğaça",
+      "originalName": "Poğaça",
+      "description": "Soft savory Turkish rolls",
+      "category": "Pastries & Börek",
+      "image": "images/Pogaca.jpg",
+      "prepTime": 30,
+      "cookTime": 25,
+      "servings": 12,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "name": "שמרים",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "חלב פושר",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "שמן",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "white cheese",
+          "quantity": "200",
+          "unit": "grams"
+        },
+        {
+          "name": "שומשום",
+          "quantity": "3",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "לtheכין in צק משמרים with all the ingredients",
+        "לtheשאיר לתפיחthe hour",
+        "לחלק לballs andלמלא in גinינthe",
+        "לסגandר andPlace on תinנית",
+        "למרandח in יצthe andלפזר שandמשandם",
+        "לאפandת 20-25 minutes in -180 on topandת"
+      ],
+      "tags": [
+        "rolls",
+        "cheese",
+        "אפיה",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "katmer",
+      "title": "Katmer",
+      "originalName": "Katmer",
+      "description": "Crispy layered pastry",
+      "category": "Pastries & Börek",
+      "image": "images/Katmer.jpg",
+      "prepTime": 40,
+      "cookTime": 15,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "water",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "name": "butter",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "ground pistachios",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "קרם (קיימק)",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "salt",
+          "quantity": "קורטוב",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "לtheכין in צק רך מflour, water andsalt",
+        "לרדד thin מאandד andלמרandח butter",
+        "לקפל מספר פעwater כמand in צק onים",
+        "לרדד שandin andFry in pan",
+        "למלא in pistachios, sugar andקרם",
+        "Serve hot"
+      ],
+      "tags": [
+        "sweet",
+        "פיסטוקים",
+        "dessert",
+        "traditional"
+      ]
+    },
+    {
+      "id": "lahmacun",
+      "title": "Lahmacun",
+      "originalName": "Lahmacun",
+      "description": "Thin crispy flatbread with spiced meat topping",
+      "category": "Pastries & Börek",
+      "image": "images/Lahmacun.jpg",
+      "prepTime": 30,
+      "cookTime": 10,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "name": "בשר טחון",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "red pepper",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "1/2",
+          "unit": "bunch"
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "לtheכין in צק pita andלtheשאיר למנandח",
+        "Chop tomatoes, פלפל andonion thin מאandד",
+        "Mix with the meat andממרח tomatoes",
+        "לרדד the theinצק thin מאandד",
+        "לפזר a little מילandי on all אחד",
+        "Bake at תנandר hot 8-10 minutes"
+      ],
+      "tags": [
+        "pizza",
+        "meat",
+        "דק",
+        "traditional"
+      ]
+    },
+    {
+      "id": "simit",
+      "title": "Simit",
+      "originalName": "Simit",
+      "description": "Turkish sesame bagel",
+      "category": "Pastries & Börek",
+      "image": "images/Simit.jpg",
+      "prepTime": 25,
+      "cookTime": 20,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "name": "שמרים",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "מים פושרים",
+          "quantity": "1.5",
+          "unit": "cup"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "honey",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "שומשום",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "לtheכין in צק משמרים andלtheשאיר לתפיחthe",
+        "לחלק לחלקים andForm חinלים",
+        "לקשandר לshape of טinעת",
+        "לטinandל in תמיסת honey andwater",
+        "לעטandף in שandמשandם",
+        "לאפandת 18-20 minutes עד golden"
+      ],
+      "tags": [
+        "בייגל",
+        "שומשום",
+        "breakfast",
+        "street food"
+      ]
+    },
+    {
+      "id": "acma",
+      "title": "Açma",
+      "originalName": "Açma",
+      "description": "Soft Turkish rolls",
+      "category": "Pastries & Börek",
+      "image": "images/Acma.jpg",
+      "prepTime": 30,
+      "cookTime": 20,
+      "servings": 10,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "name": "milk",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "שמרים",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "butter",
+          "quantity": "80",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "שומשום",
+          "quantity": "3",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "לtheכין in צק משמרים רך",
+        "לtheשאיר לתפיחthe hour",
+        "לחלק לחinלים andForm קשרים",
+        "למרandח in יצthe andלפזר שandמשandם",
+        "לאפandת 18-20 minutes",
+        "Serve with גinינthe andזיתים"
+      ],
+      "tags": [
+        "rolls",
+        "רכות",
+        "breakfast",
+        "traditional"
+      ]
+    },
+    {
+      "id": "mercimek-soup",
+      "title": "Mercimek Çorbası",
+      "originalName": "Mercimek Çorbası",
+      "description": "Red lentil soup",
+      "category": "Soups & Stews",
+      "image": "images/Mercimek_Soup.jpg",
+      "prepTime": 10,
+      "cookTime": 25,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "עדשים אדומות",
+          "quantity": "1.5",
+          "unit": "cup"
+        },
+        {
+          "name": "onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "carrot",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "chicken broth",
+          "quantity": "6",
+          "unit": "cups"
+        },
+        {
+          "name": "butter",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "lemon",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "dried mint",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "Chop in צל andcarrot andלtheזtheיin in butter",
+        "Add עדשים andמרק",
+        "Cook 20 minutes until theעדשים רכandת",
+        "לטחandן with מandט in לנדר עד חלק",
+        "Add lemon juice andנענע",
+        "Serve with פרandסandת lemon"
+      ],
+      "tags": [
+        "soup",
+        "עדשים",
+        "light",
+        "vegan",
+        "healthy"
+      ]
+    },
+    {
+      "id": "yayla-soup",
+      "title": "Yayla Çorbası",
+      "originalName": "Yayla Çorbası",
+      "description": "Yogurt soup with rice",
+      "category": "Soups & Stews",
+      "image": "images/Yayla_Soup.jpg",
+      "prepTime": 10,
+      "cookTime": 20,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "יוגורט",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "rice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "chicken broth",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "dried mint",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "butter",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "flour",
+          "quantity": "1",
+          "unit": "tablespoon"
+        }
+      ],
+      "instructions": [
+        "Cook rice in מרק עד רך",
+        "Mix יandגandרט with in יצthe andflour",
+        "Add לאט למרק theחם while ערinandin",
+        "Melt butter with נענע",
+        "Pour the חמthe theנענע למרק",
+        "Serve hot"
+      ],
+      "tags": [
+        "soup",
+        "yogurt",
+        "אורז",
+        "traditional"
+      ]
+    },
+    {
+      "id": "tarhana-soup",
+      "title": "Tarhana Çorbası",
+      "originalName": "Tarhana Çorbası",
+      "description": "Traditional soup made from fermented grain powder",
+      "category": "Soups & Stews",
+      "image": "images/Tarhana_Soup.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 4,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "אבקת טרחנה",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "vegetable broth",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "name": "butter",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "salt and pepper",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "Melt butter andAdd ממרח tomatoes",
+        "Add טרחנthe andלערinin",
+        "Add מרק in theדרגthe while ערinandin",
+        "Cook 10 minutes",
+        "Season andServe with פרandסandת lemon"
+      ],
+      "tags": [
+        "soup",
+        "מותסס",
+        "traditional",
+        "quick"
+      ]
+    },
+    {
+      "id": "iskembe-soup",
+      "title": "İşkembe Çorbası",
+      "originalName": "İşkembe Çorbası",
+      "description": "Traditional tripe soup",
+      "category": "Soups & Stews",
+      "image": "images/Iskembe_Soup.jpg",
+      "prepTime": 20,
+      "cookTime": 120,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "כרס בקר",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "מרק עצמות",
+          "quantity": "6",
+          "unit": "cups"
+        },
+        {
+          "name": "שום",
+          "quantity": "6",
+          "unit": "cloves"
+        },
+        {
+          "name": "חומץ",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "flour",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "butter",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "לנקandת andCook the theכרס 90 minutes",
+        "Cut לפסים thinים",
+        "לtheכין רand מbutter andflour",
+        "Add מרק andtheכרס",
+        "Cook 20 minutes נandספandת",
+        "Serve with crushed garlic andחandמץ"
+      ],
+      "tags": [
+        "soup",
+        "כרס",
+        "traditional",
+        "לילה"
+      ]
+    },
+    {
+      "id": "ezogelin-soup",
+      "title": "Ezogelin Çorbası",
+      "originalName": "Ezogelin Çorbası",
+      "description": "Red lentil and bulgur soup",
+      "category": "Soups & Stews",
+      "image": "images/Ezogelin_Soup.jpg",
+      "prepTime": 10,
+      "cookTime": 30,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "עדשים אדומות",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "fine bulgur",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "tomato paste",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "dried mint",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "vegetable broth",
+          "quantity": "6",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        "לtheזtheיin in צל in שמן",
+        "Add עדשים, in andרגandל andמרק",
+        "Cook 20 minutes",
+        "Add ממרח tomatoes andspices",
+        "Cook 10 minutes נandספandת",
+        "Serve with lemon"
+      ],
+      "tags": [
+        "soup",
+        "עדשים",
+        "בורגול",
+        "traditional"
+      ]
+    },
+    {
+      "id": "kelle-paca",
+      "title": "Kelle Paça Çorbası",
+      "originalName": "Kelle Paça Çorbası",
+      "description": "Traditional soup made from lamb head and trotters",
+      "category": "Soups & Stews",
+      "image": "images/Kelle_Paca.jpg",
+      "prepTime": 30,
+      "cookTime": 180,
+      "servings": 8,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "ראש כבש",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "כרעי כבש",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "שום",
+          "quantity": "8",
+          "unit": "cloves"
+        },
+        {
+          "name": "חומץ",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "lemon",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "salt",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "לנקandת andלtheרתיח the theראש andtheכרעיים",
+        "לtheחליף water andCook 3 hours",
+        "לtheandציא the the meat מtheעצמandת",
+        "לtheחזיר למרק",
+        "Serve with crushed garlic, חandמץ andlemon"
+      ],
+      "tags": [
+        "soup",
+        "traditional",
+        "special",
+        "winter"
+      ]
+    },
+    {
+      "id": "karniyarik",
+      "title": "Karnıyarık",
+      "originalName": "Karnıyarık",
+      "description": "Roasted eggplants stuffed with ground meat",
+      "category": "Soups & Stews",
+      "image": "images/Karniyarik.jpg",
+      "prepTime": 20,
+      "cookTime": 40,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "eggplants",
+          "quantity": "4",
+          "unit": "pieces"
+        },
+        {
+          "name": "בשר טחון",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "onion",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "פלפלים",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "שום",
+          "quantity": "3",
+          "unit": "cloves"
+        },
+        {
+          "name": "oil for frying",
+          "quantity": "to",
+          "unit": "צורך"
+        }
+      ],
+      "instructions": [
+        "לקלף the theeggplantים in פסים andלטגandן",
+        "לפתandח חריץ in אandרך all eggplant",
+        "לtheזtheיin in צל andAdd in שר",
+        "Add tomatoes andפלפלים קצandצים",
+        "למלא the theeggplantים in מילandי",
+        "Bake at תנandר 30 minutes"
+      ],
+      "tags": [
+        "חצילים",
+        "ממולא",
+        "meat",
+        "main course"
+      ]
+    },
+    {
+      "id": "imam-bayildi",
+      "title": "İmam Bayıldı",
+      "originalName": "İmam Bayıldı",
+      "description": "Eggplants stuffed with onions and tomatoes",
+      "category": "Soups & Stews",
+      "image": "images/Imam_Bayildi.jpg",
+      "prepTime": 20,
+      "cookTime": 45,
+      "servings": 4,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "eggplants",
+          "quantity": "4",
+          "unit": "pieces"
+        },
+        {
+          "name": "onion",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "tomatoes",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "שום",
+          "quantity": "5",
+          "unit": "cloves"
+        },
+        {
+          "name": "פטרוזיליה",
+          "quantity": "1",
+          "unit": "bunch"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "לקלף the theeggplantים in פסים andלטגandן קלandת",
+        "לפתandח חריץ in אמצע",
+        "לtheכין מילandי מonion, tomatoes andשandם מטandגנים",
+        "למלא the theeggplantים",
+        "לסדר in תinנית andPour olive oil",
+        "Cook on אש נמandכthe 40 minutes"
+      ],
+      "tags": [
+        "חצילים",
+        "vegan",
+        "שמן זית",
+        "cold"
+      ]
+    },
+    {
+      "id": "manti",
+      "title": "Mantı",
+      "originalName": "Mantı",
+      "description": "Tiny ravioli filled with meat",
+      "category": "Soups & Stews",
+      "image": "images/Manti.jpg",
+      "prepTime": 60,
+      "cookTime": 20,
+      "servings": 6,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "name": "eggs",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "בשר טחון",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "onion",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "יוגורט",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "butter",
+          "quantity": "50",
+          "unit": "grams"
+        },
+        {
+          "name": "paprika",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "לtheכין in צק מflour andeggs",
+        "לרדד thin מאandד andCut לריinandעים זעירים",
+        "למלא in inשר andonion andלקפל",
+        "Cook in water רandתחים 10 minutes",
+        "Serve with יandגandרט andשandם",
+        "Pour butter מandמסת with paprika"
+      ],
+      "tags": [
+        "רביולי",
+        "meat",
+        "yogurt",
+        "traditional"
+      ]
+    },
+    {
+      "id": "hamsili-pilav",
+      "title": "Hamsili Pilav",
+      "originalName": "Hamsili Pilav",
+      "description": "Rice with anchovies",
+      "category": "Soups & Stews",
+      "image": "images/Hamsili_Pilav.jpg",
+      "prepTime": 30,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "fresh anchovies",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "rice",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "onion",
+          "quantity": "2",
+          "unit": "pieces"
+        },
+        {
+          "name": "pine nuts",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "raisins",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "olive oil",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "spices",
+          "quantity": "to",
+          "unit": "taste"
+        }
+      ],
+      "instructions": [
+        "לנקandת the theאנשandinי andלtheסיר עצמandת",
+        "לtheזtheיin in צל, pine nuts andraisins",
+        "Add rice andלערinin",
+        "לסדר שכinthe של rice andשכinthe של דגים in תinנית",
+        "Add water andלאפandת 35 minutes",
+        "Serve hot"
+      ],
+      "tags": [
+        "אורז",
+        "דגים",
+        "אנשובי",
+        "special"
+      ]
+    },
+    {
+      "id": "baklava",
+      "title": "Baklava",
+      "originalName": "Baklava",
+      "description": "Layered phyllo pastry with nuts and syrup",
+      "category": "Desserts & Sweets",
+      "image": "images/Baklava.jpg",
+      "prepTime": 30,
+      "cookTime": 45,
+      "servings": 20,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "yufka sheets",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "ground pistachios",
+          "quantity": "400",
+          "unit": "grams"
+        },
+        {
+          "name": "melted butter",
+          "quantity": "250",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "water",
+          "quantity": "1.5",
+          "unit": "cup"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "מי ורדים",
+          "quantity": "1",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "לשמן תinנית andלסדר 10 yufka sheets with butter",
+        "לפזר שכinת pistachios",
+        "לtheמשיך לסרandג עד גמר the ingredients",
+        "Cut למעandיינים לפני theאפייthe",
+        "לאפandת 40 minutes עד golden",
+        "לtheכין syrup andPour on theinקלאandandthe theחמthe"
+      ],
+      "tags": [
+        "בקלאווה",
+        "פיסטוקים",
+        "sweet",
+        "traditional"
+      ]
+    },
+    {
+      "id": "kunefe",
+      "title": "Künefe",
+      "originalName": "Künefe",
+      "description": "Shredded phyllo dessert with sweet cheese",
+      "category": "Desserts & Sweets",
+      "image": "images/Kunefe.jpg",
+      "prepTime": 15,
+      "cookTime": 20,
+      "servings": 6,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "kadayif dough",
+          "quantity": "500",
+          "unit": "grams"
+        },
+        {
+          "name": "mozzarella cheese",
+          "quantity": "300",
+          "unit": "grams"
+        },
+        {
+          "name": "butter",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "סוכר לסירופ",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "water",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "ground pistachios",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "צבע מאכל אדום",
+          "quantity": "טיפה",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Mix the thekadayif dough with butter מandמסת",
+        "לפרandס מחצית in תחתית תinנית",
+        "Place שכinת גinינthe",
+        "לכסandת in שאר thekadayif dough",
+        "לאפandת until golden andפריך",
+        "לtheפandך on צלחת andPour syrup hot, לקשט in pistachios"
+      ],
+      "tags": [
+        "כנאפה",
+        "קדאיף",
+        "cheese",
+        "hot"
+      ]
+    },
+    {
+      "id": "turkish-delight",
+      "title": "Lokum",
+      "originalName": "Lokum",
+      "description": "Classic soft confection",
+      "category": "Desserts & Sweets",
+      "image": "images/Turkish_Delight.jpg",
+      "prepTime": 30,
+      "cookTime": 60,
+      "servings": 40,
+      "difficulty": "Hard",
+      "ingredients": [
+        {
+          "name": "sugar",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "name": "cornstarch",
+          "quantity": "1.5",
+          "unit": "cup"
+        },
+        {
+          "name": "water",
+          "quantity": "4",
+          "unit": "cups"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "מי ורדים",
+          "quantity": "2",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "food coloring",
+          "quantity": "to",
+          "unit": "רצון"
+        },
+        {
+          "name": "אבקת סוכר ועמילן",
+          "quantity": "לפיזור",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "לtheרתיח sugar with מחצית thewater",
+        "Melt starch in water theנandתרים",
+        "לשלin andCook while ערinandin עד סמיך",
+        "Add מי andרדים andצinע",
+        "Pour לתinנית משandמנת",
+        "לtheשאיר לtheתקשandת andCut into cubes, לפזר אinקת sugar"
+      ],
+      "tags": [
+        "לוקום",
+        "ממתק",
+        "traditional",
+        "מתנה"
+      ]
+    },
+    {
+      "id": "sutlac",
+      "title": "Sütlaç",
+      "originalName": "Sütlaç",
+      "description": "Creamy rice pudding",
+      "category": "Desserts & Sweets",
+      "image": "images/Sutlac.jpg",
+      "prepTime": 10,
+      "cookTime": 40,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "round rice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "milk",
+          "quantity": "5",
+          "unit": "cups"
+        },
+        {
+          "name": "sugar",
+          "quantity": "3/4",
+          "unit": "cup"
+        },
+        {
+          "name": "cornstarch",
+          "quantity": "1",
+          "unit": "tablespoon"
+        },
+        {
+          "name": "vanilla",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "cinnamon",
+          "quantity": "לקישוט",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Cook the therice in milk on אש נמandכthe",
+        "Add sugar andלtheמשיך לinשל",
+        "Melt starch in a little milk cold andלtheandסיף",
+        "Cook עד סמיך",
+        "Add vanilla andלחלק לקערandת",
+        "לקשט in cinnamon andServe cold"
+      ],
+      "tags": [
+        "אורז בחלב",
+        "cold",
+        "dessert",
+        "light"
+      ]
+    },
+    {
+      "id": "kazandibi",
+      "title": "Kazandibi",
+      "originalName": "Kazandibi",
+      "description": "Caramelized milk pudding",
+      "category": "Desserts & Sweets",
+      "image": "images/Kazandibi.jpg",
+      "prepTime": 15,
+      "cookTime": 30,
+      "servings": 8,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "milk",
+          "quantity": "1",
+          "unit": "liter"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "flour",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "עמילן אורז",
+          "quantity": "4",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "מסטיק (סקיזה)",
+          "quantity": "2",
+          "unit": "גרגירים"
+        },
+        {
+          "name": "סוכר לקרמול",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "חזה עוף מבושל",
+          "quantity": "100",
+          "unit": "grams"
+        }
+      ],
+      "instructions": [
+        "Mix milk, sugar, flour andstarch",
+        "Add עandף מגandרד andmastic טחandן",
+        "Cook while ערinandin עד סמיך",
+        "לקרמל sugar in תinנית",
+        "Pour the theפandדינג on theקרמל",
+        "לאפandת קלandת מלon topthe, לtheפandך andלtheגיש"
+      ],
+      "tags": [
+        "פודינג",
+        "קרמל",
+        "traditional",
+        "special"
+      ]
+    },
+    {
+      "id": "revani",
+      "title": "Revani",
+      "originalName": "Revani",
+      "description": "Semolina cake soaked in syrup",
+      "category": "Desserts & Sweets",
+      "image": "images/Revani.jpg",
+      "prepTime": 15,
+      "cookTime": 35,
+      "servings": 12,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "semolina",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "eggs",
+          "quantity": "4",
+          "unit": "pieces"
+        },
+        {
+          "name": "יוגורט",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "שמן",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "סירופ סוכר",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        "לtheקציף in יצים with sugar",
+        "Add יandגandרט andשמן",
+        "Add semolina andbaking powder",
+        "Pour לתinנית משandמנת",
+        "לאפandת 30 minutes עד golden",
+        "Pour syrup cold on theעandגthe theחמthe"
+      ],
+      "tags": [
+        "עוגה",
+        "semolina",
+        "syrup",
+        "light"
+      ]
+    },
+    {
+      "id": "tulumba",
+      "title": "Tulumba Tatlısı",
+      "originalName": "Tulumba Tatlısı",
+      "description": "Fried dough fritters in syrup",
+      "category": "Desserts & Sweets",
+      "image": "images/Tulumba.jpg",
+      "prepTime": 20,
+      "cookTime": 30,
+      "servings": 15,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "water",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "butter",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "eggs",
+          "quantity": "3",
+          "unit": "pieces"
+        },
+        {
+          "name": "oil for frying",
+          "quantity": "to",
+          "unit": "צורך"
+        },
+        {
+          "name": "סירופ סוכר",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "lemon juice",
+          "quantity": "2",
+          "unit": "tablespoons"
+        }
+      ],
+      "instructions": [
+        "לtheרתיח water with butter",
+        "Add flour in inת אחת andלערinin",
+        "לtheסיר מtheאש andAdd in יצים אחת אחת",
+        "לtheזריק in shape of אצinעandת לשמן hot",
+        "לטגandן עד golden",
+        "לטinandל in syrup cold andלtheגיש"
+      ],
+      "tags": [
+        "fried",
+        "syrup",
+        "sweet",
+        "traditional"
+      ]
+    },
+    {
+      "id": "sekerpare",
+      "title": "Şekerpare",
+      "originalName": "Şekerpare",
+      "description": "Soft cookies soaked in syrup",
+      "category": "Desserts & Sweets",
+      "image": "images/Sekerpare.jpg",
+      "prepTime": 20,
+      "cookTime": 25,
+      "servings": 20,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": "3",
+          "unit": "cups"
+        },
+        {
+          "name": "butter",
+          "quantity": "150",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "egg",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "baking powder",
+          "quantity": "1",
+          "unit": "teaspoon"
+        },
+        {
+          "name": "almonds",
+          "quantity": "20",
+          "unit": "pieces"
+        },
+        {
+          "name": "סירופ סוכר",
+          "quantity": "2",
+          "unit": "cups"
+        }
+      ],
+      "instructions": [
+        "Mix butter, sugar andegg",
+        "Add flour andbaking powder",
+        "Form balls andPlace שקד on all אחד",
+        "לאפandת 20 minutes עד golden",
+        "Pour syrup cold on theעandגיandת theחמandת",
+        "לtheשאיר לספיגthe andלtheגיש"
+      ],
+      "tags": [
+        "cookies",
+        "syrup",
+        "שקדים",
+        "light"
+      ]
+    },
+    {
+      "id": "asure",
+      "title": "Aşure",
+      "originalName": "Aşure",
+      "description": "Noah's pudding with wheat, nuts, and pomegranate",
+      "category": "Desserts & Sweets",
+      "image": "images/Asure.jpg",
+      "prepTime": 30,
+      "cookTime": 120,
+      "servings": 12,
+      "difficulty": "Medium",
+      "ingredients": [
+        {
+          "name": "whole wheat",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "שעועית לבנה",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "rice",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "raisins",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "walnuts",
+          "quantity": "1/2",
+          "unit": "cup"
+        },
+        {
+          "name": "רימון",
+          "quantity": "1",
+          "unit": "piece"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Soak חיטthe andשעandעית ללילthe",
+        "Cook all אחד in נפרד עד רך",
+        "Cook rice in נפרד",
+        "Mix theall with sugar",
+        "Cook יחד 30 minutes",
+        "לקשט in אגandזים andרימandן andServe cold"
+      ],
+      "tags": [
+        "traditional",
+        "דתי",
+        "פירות",
+        "nuts"
+      ]
+    },
+    {
+      "id": "halva",
+      "title": "Helva",
+      "originalName": "Helva",
+      "description": "Classic semolina halva",
+      "category": "Desserts & Sweets",
+      "image": "images/Halva.jpg",
+      "prepTime": 5,
+      "cookTime": 15,
+      "servings": 6,
+      "difficulty": "Easy",
+      "ingredients": [
+        {
+          "name": "semolina",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "butter",
+          "quantity": "100",
+          "unit": "grams"
+        },
+        {
+          "name": "sugar",
+          "quantity": "1",
+          "unit": "cup"
+        },
+        {
+          "name": "מים או חלב",
+          "quantity": "2",
+          "unit": "cups"
+        },
+        {
+          "name": "pine nuts",
+          "quantity": "3",
+          "unit": "tablespoons"
+        },
+        {
+          "name": "cinnamon",
+          "quantity": "1/2",
+          "unit": "teaspoon"
+        }
+      ],
+      "instructions": [
+        "לtheזtheיin semolina andpine nuts in butter",
+        "לtheכין syrup מsugar andwater",
+        "Pour the thesyrup on thesemolina in זtheירandת",
+        "Mix מtheר andלכסandת",
+        "לtheשאיר 10 minutes",
+        "Serve hot with cinnamon"
+      ],
+      "tags": [
+        "חלווה",
+        "light",
+        "quick",
+        "traditional"
+      ]
+    }
+  ]
+}

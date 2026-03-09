@@ -4,6 +4,7 @@
 
 const RecipeData = (() => {
     const state = {
+        currentLang: 'he',
         recipes: [],
         filteredRecipes: [],
         searchQuery: '',
@@ -12,14 +13,21 @@ const RecipeData = (() => {
         isLoaded: false,
     };
 
-    async function fetchRecipes() {
-        const response = await fetch('data/recipes.json');
-        if (!response.ok) throw new Error('Failed to load recipes');
+    async function fetchRecipes(lang) {
+        const language = lang || state.currentLang || 'he';
+        const response = await fetch(`data/recipes-${language}.json`);
+        if (!response.ok) throw new Error(`Failed to load recipes-${language}.json`);
         const data = await response.json();
         state.recipes = data.recipes;
         state.filteredRecipes = [...state.recipes];
         state.categories = ['הכל', ...new Set(state.recipes.map(r => r.category))];
         state.isLoaded = true;
+        return state;
+    }
+
+    async function switchLanguage(lang) {
+        state.currentLang = lang;
+        await fetchRecipes(lang);
         return state;
     }
 
@@ -52,5 +60,5 @@ const RecipeData = (() => {
         return state;
     }
 
-    return { fetchRecipes, filterRecipes, getRecipeById, getState };
+    return { fetchRecipes, switchLanguage, filterRecipes, getRecipeById, getState };
 })();
