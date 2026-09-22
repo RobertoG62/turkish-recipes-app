@@ -102,8 +102,8 @@
         const heroTitle = document.querySelector('#hero h1');
         if (heroTitle) {
             heroTitle.innerHTML = i18n.getLanguage() === 'he' ?
-                'המטבח <span class="text-tr-primary">התורכי</span>' :
-                '<span class="text-tr-primary">Turkish</span> Cuisine';
+                'המטבח <span class="text-tr-primary-light">התורכי</span>' :
+                '<span class="text-tr-primary-light">Turkish</span> Cuisine';
         }
 
         // Update hero subtitle
